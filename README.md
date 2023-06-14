@@ -1,7 +1,7 @@
 <div align="center">
   
-# 泽扣整合包
 # Zecoar Modpack
+**泽扣整合包**
 
 **《我的世界》原版 Fabric 整合包**                                        
 **Minecraft classic Fabric modpack**
@@ -13,8 +13,10 @@
 
 </div>
 
+<div align="center">
 **献给喜欢游玩原版《我的世界》的玩家**
 **Dedicated to players who enjoy playing the classic Minecraft**
+</div>
 
 #               
 
