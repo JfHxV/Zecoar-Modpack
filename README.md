@@ -1,6 +1,7 @@
 <div align="center">
   
-# Zecoar
+# 泽扣整合包
+# Zecoar Modpack
 
 **《我的世界》原版 Fabric 整合包**                                        
 **Minecraft classic Fabric modpack**
