@@ -2,8 +2,8 @@
   
 # Zecoar
 
-**适用于 Windows 11 的多功能工具**                                        
-**Multi-functional Tools for Windows 11**
+**《我的世界》原版 Fabric 整合包**                                        
+**Minecraft classic Fabric modpack**
 
 | 整合包</br>Modpack | 最新版本</br>Latest Ver. | Java版本</br>Java Ver. |
 | :-: | :-: | :-: |
@@ -11,7 +11,8 @@
 | Zecoar Modpack Beta | None | Java 17+ |
 
 </div>
-
+*献给喜欢游玩原版《我的世界》的玩家*
+*Dedicated to players who enjoy playing the classic Minecraft*
 #               
 
 **备注**
@@ -30,4 +31,4 @@
 
 **Feedback**
 
-If you encounter problems when playing this modpack, please feedback the problem to `issue`
+If you encounter problems when playing this modpack, please feedback the problem to `Issue`
