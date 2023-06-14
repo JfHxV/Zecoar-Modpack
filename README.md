@@ -14,8 +14,10 @@
 </div>
 
 <div align="center">
+  
 **献给喜欢游玩原版《我的世界》的玩家**
 **Dedicated to players who enjoy playing the classic Minecraft**
+  
 </div>
 
 #               
