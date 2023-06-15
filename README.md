@@ -1,4 +1,4 @@
-
+[![Cover](https://repository-images.githubusercontent.com/605815963/acf90131-3a24-4fc3-b3af-17404082f735)]
 <div align="center">
   
 # Zecoar Modpack
