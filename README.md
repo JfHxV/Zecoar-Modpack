@@ -1,4 +1,9 @@
+
 <div align="center">
+  <p>
+        <img src="https://img.shields.io/badge/Mod%20Loader-Fabric-dbd0b4?style=flat" alt="Fabric Mod Loader" />
+        <img src="https://img.shields.io/badge/Version-230316-blue?style=flat" alt="Version" />
+    </p>
   
 # Zecoar Modpack
 **泽扣整合包**
