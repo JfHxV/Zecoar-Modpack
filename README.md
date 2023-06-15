@@ -1,9 +1,5 @@
 
 <div align="center">
-  <p>
-        <img src="https://img.shields.io/badge/Mod%20Loader-Fabric-dbd0b4?style=flat" alt="Fabric Mod Loader" />
-        <img src="https://img.shields.io/badge/Version-230316-blue?style=flat" alt="Version" />
-    </p>
   
 # Zecoar Modpack
 **泽扣整合包**
@@ -15,6 +11,9 @@
 | :-: | :-: | :-: |
 | Zecoar Modpack | 1.20 | Java 17+ |
 | Zecoar Modpack Beta | None | Java 17+ |
+<p>
+    <img src="https://img.shields.io/badge/Mod%20Loader-Fabric-dbd0b4?style=flat" alt="Fabric Mod Loader" />
+</p>
 
 </div>
 
