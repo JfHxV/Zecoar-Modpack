@@ -10,7 +10,7 @@
 | 整合包</br>Modpack | 最新版本</br>Latest Ver. | Java版本</br>Java Ver. | 我的世界版本</br>Minecraft Ver. |
 | :-: | :-: | :-: | :-: |
 | Zecoar Modpack | 1.0 | Java 17+ | 1.20 |
-| Zecoar Modpack Beta | None | Java 17+ | 1.20 |
+| Zecoar Modpack Beta | 0.23 | Java 17+ | 1.20 |
 <p>
     <img src="https://img.shields.io/badge/Mod%20Loader-Fabric-dbd0b4?style=flat" alt="Fabric Mod Loader" />
 </p>
