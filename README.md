@@ -7,10 +7,10 @@
 **《我的世界》原版 Fabric 整合包**                                        
 **Minecraft classic Fabric modpack**
 
-| 整合包</br>Modpack | 最新版本</br>Latest Ver. | Java版本</br>Java Ver. |
-| :-: | :-: | :-: |
-| Zecoar Modpack | 1.20 | Java 17+ |
-| Zecoar Modpack Beta | None | Java 17+ |
+| 整合包</br>Modpack | 最新版本</br>Latest Ver. | Java版本</br>Java Ver. | 我的世界版本</br>Minecraft Ver. |
+| :-: | :-: | :-: | :-: |
+| Zecoar Modpack | 1.0 | Java 17+ | 1.20 |
+| Zecoar Modpack Beta | None | Java 17+ | 1.20 |
 <p>
     <img src="https://img.shields.io/badge/Mod%20Loader-Fabric-dbd0b4?style=flat" alt="Fabric Mod Loader" />
 </p>
