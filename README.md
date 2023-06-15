@@ -1,4 +1,4 @@
-[![Cover]([Zecoar Modpack - Long.png])]
+![Cover]([https://github.com/ZfIxV/Zecoar-Modpack/blob/main/Zecoar%20%])
 <div align="center">
   
 # Zecoar Modpack
