@@ -5,10 +5,10 @@
   
   **适用于 Zecoar Modpack 的 Expansion modpack**
   
-| 扩展包</br>Modpack | 最新版本</br>Latest Ver. | Java版本</br>Java Ver. | 我的世界版本</br>Minecraft Ver. |
+| 扩展包</br>Modpack | 最新版本</br>Latest Ver. | Zecoar Modpack 版本</br>Zecoar Modpack Ver. | 我的世界版本</br>Minecraft Ver. |
 | :-: | :-: | :-: | :-: |
-| Expansion Modpack | 1.0 | Java 17+ | 1.20 |
-| Expansion Modpack Beta | 0.1.0 | Java 17+ | 1.20 |
+| Expansion Modpack | 1.0 | ≥1.0 | 1.20 |
+| Expansion Modpack Beta | 0.1.0 | ≥0.23 | 1.20 |
   
 You can download it on [release-expansion](https://github.com/ZfIxV/Zecoar-Modpack/releases)
 
