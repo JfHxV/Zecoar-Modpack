@@ -1,4 +1,4 @@
-![COVER](https://github.com/ZfIxV/Zecoar-Modpack/blob/main/overrides/mods-expantion/Zecoar%20Expansion%20-%20Header.png)
+![COVER](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/overrides/mods-expansion/Zecoar%20Expansion%20-%20Header.png)
 <div align='center'>
   
   **Expansion modpack for Zecoar Modpack**
