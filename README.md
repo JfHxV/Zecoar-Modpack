@@ -37,6 +37,12 @@
 1. <span id="ref1_en">This modpack is in preliminar porduction, please stay tuned.</span>
 2. <span id="ref2_en">Plz use `Java 17` or `higher Java ver.` to run it.</span>    
 
+**更多有趣的东西**
+原版整合包太枯燥？我们有玩法扩展包，[点击以了解](https://github.com/ZfIxV/Zecoar-Modpack/blob/overrides/mods-expansion/README.md)
+
+**More interesting things**
+Classic modpack too boring? We have gameplay expansion pack, [Clike to know](https://github.com/ZfIxV/Zecoar-Modpack/blob/overrides/mods-expansion/README.md)
+
 **反馈**
 
 如在游玩本整合包时遇到问题 请将问题反馈至`Issue`栏目
