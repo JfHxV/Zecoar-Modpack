@@ -39,11 +39,11 @@
 
 **更多有趣的东西**
 
-原版整合包太枯燥？我们有玩法扩展包，[点击以了解](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/overrides/mods-expantion)
+原版整合包太枯燥？我们有玩法扩展包，[点击以了解](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/overrides/mods-expansion)
 
 **More interesting things**
 
-Classic modpack too boring? We have gameplay expansion pack, [Clike to know](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/overrides/mods-expansion/README.md)
+Classic modpack too boring? We have gameplay expansion pack, [Clike to know](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/overrides/mods-expansion)
 
 **反馈**
 
