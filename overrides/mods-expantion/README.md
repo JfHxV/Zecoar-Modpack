@@ -1,9 +1,9 @@
 ![COVER](https://github.com/ZfIxV/Zecoar-Modpack/blob/main/overrides/mods-expantion/Zecoar%20Expansion%20-%20Header.png)
-<div align='centre'>
+<div align='center'>
   
-  `Expansion modpack for Zecoar Modpack`
+  **Expansion modpack for Zecoar Modpack**
   
-  `适用于 Zecoar Modpack 的 Expansion modpack`
+  **适用于 Zecoar Modpack 的 Expansion modpack**
   
 | 扩展包</br>Modpack | 最新版本</br>Latest Ver. | Java版本</br>Java Ver. | 我的世界版本</br>Minecraft Ver. |
 | :-: | :-: | :-: | :-: |
