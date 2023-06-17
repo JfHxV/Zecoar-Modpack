@@ -1,5 +1,5 @@
 ![COVER](https://github.com/ZfIxV/Zecoar-Modpack/blob/main/overrides/mods-expantion/Zecoar%20Expansion%20-%20Header.png)
-<div align="centre">
+<div align='centre'>
   
   `Expansion modpack for Zecoar Modpack`
   
