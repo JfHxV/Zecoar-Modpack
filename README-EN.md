@@ -27,11 +27,11 @@
 
 The language you are currently using is`English`
 
-[Click here](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/README-ZH.md) to change to Chinese (Simplified)
+[Click here](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/README.md) to change to Chinese (Simplified)
 
 您当前使用的语言是`英文`
 
-[单击这里](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/README-ZH.md)以切换至中文
+[单击这里](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/README.md)以切换至中文
 
 **How to play Zecoar Modpack**
 
