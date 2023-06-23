@@ -1,13 +1,11 @@
 ![Cover](https://github.com/ZfIxV/Zecoar-Modpack/blob/main/Zecoar%20Modpack%20-%20Header.png)
 <div align="center">
   
-# Zecoar Modpack
-**泽扣整合包**
-
-**《我的世界》原版 Fabric 整合包**                                        
+**Zecoar Modpack**
+                                  
 **Minecraft classic Fabric modpack**
 
-| 整合包</br>Modpack | 最新版本</br>Latest Ver. | Java版本</br>Java Ver. | 我的世界版本</br>Minecraft Ver. |
+| Modpack | Latest Ver. | Java Ver. | Minecraft Ver. |
 | :-: | :-: | :-: | :-: |
 | Zecoar Modpack | 1.0 | ≥Java 17 | 1.20 |
 | Zecoar Modpack Beta | 0.3.5 | ≥Java 17 | 1.20 |
@@ -18,36 +16,39 @@
 </div>
 
 <div align="center">
-  
-**献给喜欢游玩原版《我的世界》的玩家**
-<br><br>
+
 **Dedicated to players who enjoy playing the classic Minecraft**
   
 </div>
 
 #               
 
-**备注**
+**Language | 语言**
 
-1.  <span id="ref2">整合包正在制作中 敬请期待</span>
-2.  <span id="ref2">请使用`Java 17`或`更高的Java版本`运行</span>
+The language you are currently using is`English`
+
+[Click here](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/README-ZH.md) to change to Chinese (Simplified)
+
+您当前使用的语言是`英文`
+
+[单击这里](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/README-ZH.md)以切换至中文
+
+**How to play Zecoar Modpack**
+
+1. Opening your Minecraft launcher（Such as：PCL2, HMCL, BakaCL and etc. launcher with the ability to import modpacks）
+2. Opening your import modpack interface（We do not provide a tutorial to find the interface for importing the modpack, please go online for help）
+3. Importing your downloaded modpack zip
+4. Wating for install
+5. When the modpack installed succsssfully, you can play with Zecoar Modpack.
 
 **Notes**
 
 1. <span id="ref1_en">This modpack is in preliminar porduction, please stay tuned.</span>
 2. <span id="ref2_en">Plz use `Java 17` or `higher Java ver.` to run it.</span>    
 
-**更多有趣的东西**
-
-原版整合包太枯燥？我们有玩法扩展包，[点击以了解](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/overrides/mods-expantion)
-
 **More interesting things**
 
 Classic modpack too boring? We have gameplay expansion pack, [Clike to know](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/overrides/mods-expansion/README.md)
-
-**反馈**
-
-如在游玩本整合包时遇到问题 请将问题反馈至`Issue`栏目
 
 **Feedback**
 
