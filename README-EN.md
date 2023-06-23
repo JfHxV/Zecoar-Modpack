@@ -48,7 +48,7 @@ The language you are currently using is`English`
 
 **More interesting things**
 
-Classic modpack too boring? We have gameplay expansion pack, [Clike to know](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/overrides/mods-expansion)
+Classic modpack too boring? We have gameplay expansion pack, [Clike to know](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/overrides/mods-expansion/README-EN.md)
 
 **Feedback**
 
