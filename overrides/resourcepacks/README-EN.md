@@ -1,4 +1,4 @@
-You can download it on Release-resourcepack(https://github.com/ZfIxV/Zecoar-Modpack/releases/tag/v1.0reasourcepack)
+You can download it on Release-resourcepack
 
 **Language | 语言**
 
