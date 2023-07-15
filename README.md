@@ -48,7 +48,7 @@ The language you are currently using is`Chinese (Simplified)`
 
 **更多有趣的东西**
 
-原版整合包太枯燥？我们有玩法扩展包，[点击以了解](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/overrides/mods-expantion/README.md)
+原版整合包太枯燥？我们有玩法扩展包，[点击以了解](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/overrides/mods-expansion/README.md)
 
 **反馈**
 
