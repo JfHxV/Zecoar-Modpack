@@ -8,7 +8,7 @@
 | Expansion Modpack | 1.0 | ≥1.0 | 1.20.1 |
 | Expansion Modpack Beta | 0.5 | ≥0.7 | 1.20.1 |
   
-You can download it on [release-expansion](https://github.com/ZfIxV/Zecoar-Modpack/releases)
+You can download the latest ver. on [release-expansion](https://github.com/ZfIxV/Zecoar-Modpack/releases/tag/v0.5ex)
 
 </div>
 
