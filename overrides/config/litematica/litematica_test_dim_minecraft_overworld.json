@@ -17,8 +17,8 @@
     "hotkey_range_max": false
   },
   "area_simple": {
-    "name": "骨粉机",
-    "current": "骨粉机",
+    "name": "骨粉机本体",
+    "current": "骨粉机本体",
     "boxes": [
       {
         "pos1": [
@@ -31,7 +31,7 @@
           90,
           564
         ],
-        "name": "骨粉机"
+        "name": "骨粉机本体"
       }
     ]
   },

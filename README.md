@@ -8,7 +8,7 @@
 | 整合包 | 最新版本 | 爪哇版本 | 我的世界版本 |
 | :-: | :-: | :-: | :-: |
 | 泽扣整合包 | 1.0 | ≥爪哇 17 | 1.20.1 |
-| 泽扣整合包测试版 | 0.7 | ≥爪哇 17 | 1.20.1 |
+| 泽扣整合包测试版 | 0.8 | ≥爪哇 17 | 1.20.1 |
 <p>
     <img src="https://img.shields.io/badge/Mod%20Loader-Fabric-dbd0b4?style=flat" alt="Fabric Mod Loader" />
 </p>
@@ -40,6 +40,16 @@ The language you are currently using is`Chinese (Simplified)`
 3. 拖入/导入您下载的整合包压缩文件
 4. 等待安装完成
 5. 待安装完毕后即可游玩
+
+**版本名称解释**
+![版本名称解释](https://github.com/ZfIxV/Zecoar-Modpack/blob/main/ZH.png)
+最后一位字母:
+B-测试版
+A-早期测试版
+R-正式版
+中间一位字母:
+E-扩展版
+B-普通版
 
 **备注**
 
