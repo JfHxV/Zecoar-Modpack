@@ -6,7 +6,7 @@
 | Modpack | Latest Ver. | Zecoar Modpack Ver. | Minecraft Ver. |
 | :-: | :-: | :-: | :-: |
 | EX Modpack | 1.0 | ≥1.0 | 1.20.1 |
-| EX Modpack Beta | 0.5.0 | ≥0.7 | 1.20.1 |
+| EX Modpack Beta | 0.6 | ≥0.7 | 1.20.1 |
   
 You can download it's least release on [release-ex](https://github.com/ZfIxV/Zecoar-Modpack/releases/tag/v0.5ex)
 
