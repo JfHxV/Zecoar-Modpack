@@ -41,6 +41,16 @@ The language you are currently using is`English`
 4. Wating for install
 5. When the modpack installed succsssfully, you can play with Zecoar Modpack.
 
+**Version name explain**
+![Version name explain](https://github.com/ZfIxV/Zecoar-Modpack/blob/main/EN.png)
+Lastest letter:                                 
+B-Beta          
+A-Alpha                              
+R-Release                        
+Middle letter:                           
+E-EX                                            
+B-Normal                                              
+
 **Notes**
 
 1. <span id="ref1_en">This modpack is in preliminar porduction, please stay tuned.</span>

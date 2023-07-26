@@ -43,13 +43,13 @@ The language you are currently using is`Chinese (Simplified)`
 
 **版本名称解释**
 ![版本名称解释](https://github.com/ZfIxV/Zecoar-Modpack/blob/main/ZH.png)
-最后一位字母:
-B-测试版
-A-早期测试版
-R-正式版
-中间一位字母:
-E-扩展版
-B-普通版
+最后一位字母:                                 
+B-测试版                                      
+A-早期测试版                              
+R-正式版                        
+中间一位字母:                           
+E-扩展版                          
+B-普通版                      
 
 **备注**
 
