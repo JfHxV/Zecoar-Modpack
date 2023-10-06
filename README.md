@@ -7,8 +7,8 @@
 
 | 整合包 | 最新版本 | 爪哇版本 | 我的世界版本 |
 | :-: | :-: | :-: | :-: |
-| 泽扣整合包 | 1.0 | ≥爪哇 17 | 1.20.1 |
-| 泽扣整合包测试版 | 0.8 | ≥爪哇 17 | 1.20.1 |
+| Zecoar 整合包 | 1.0 | ≥ Java 17 | 1.20.1 |
+| Zecoar 整合包测试版 | 0.8 | ≥ Java 17 | 1.20.1 |
 <p>
     <img src="https://img.shields.io/badge/Mod%20Loader-Fabric-dbd0b4?style=flat" alt="Fabric Mod Loader" />
 </p>
@@ -33,7 +33,7 @@ The language you are currently using is`Chinese (Simplified)`
 
 [Click here](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/README-EN.md) to change to English
 
-**怎么游玩泽扣整合包**
+**怎么游玩 Zecoar 整合包**
 
 1. 打开您的我的世界启动器（例如：PCL2、HMCL、BakaCL等附有导入整合包功能的启动器）
 2. 打开导入整合包界面（我们不提供找到导入整合包界面的教程，请上网寻求帮助）
