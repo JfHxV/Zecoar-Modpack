@@ -1,23 +1,23 @@
 ![COVER](https://github.com/ZfIxV/Zecoar-Modpack/blob/main/overrides/mods-ex/Zecoar%20EX%20-%20Header.png)
 <div align='center'>
   
-  **适用于 泽扣整合包 的 扩展包**
+  **Expansion modpack for Zecoar Modpack**
   
-| 扩展包 | 最新版本 | 泽扣整合包 版本 | 我的世界版本 |
+| Modpack | Latest Ver. | Zecoar Modpack Ver. | Minecraft Ver. |
 | :-: | :-: | :-: | :-: |
-| 扩展包正式版 | 1.0 | ≥1.0 | 1.20.1 |
-| 扩展包测试版 | 0.6 | ≥0.7 | 1.20.1 |
+| EX Modpack | 1.0 | ≥1.0 | 1.20.1 |
+| EX Modpack Beta | 0.6 | ≥0.7 | 1.20.1 |
   
-你可以在[release-ex](https://github.com/ZfIxV/Zecoar-Modpack/releases/tag/v0.5ex)上下载它的最新版本
+You can download it's least release on [release-ex](https://github.com/ZfIxV/Zecoar-Modpack/releases/tag/v0.5ex)
+
 </div>
 
-**语言 | Language**
+**Language | 语言**
 
-您当前使用的语言是`中文`
+The language you are currently using is`English`
 
-[单击这里](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/overrides/mods-expansion/README-EN.md)以切换至英文
+[Click here](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/overrides/mods-expansion/README.md) to change to Chinese (Simplified)
 
-The language you are currently using is`Chinese (Simplified)`
+您当前使用的语言是`英文`
 
-[Click here](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/overrides/mods-expansion/README-EN.md) to change to English
-
+[单击这里](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/overrides/mods-expansion/README.md)以切换至中文
