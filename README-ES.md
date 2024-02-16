@@ -5,7 +5,7 @@
                                   
 **Minecraft classic Fabric modpack**
 
-| Modpack | Latest Ver. | Java Ver. | Minecraft Ver. |
+| Modpack | La última Ver. | Java Ver. | Minecraft Ver. |
 | :-: | :-: | :-: | :-: |
 | Zecoar Modpack | 1.0 | ≥Java 17 | 1.20.1 |
 | Zecoar Modpack Beta | 0.8 | ≥Java 17 | 1.20.1 |
@@ -41,7 +41,7 @@
 5. When the modpack installed succsssfully, you can play with Zecoar Modpack.
 
 **Version name explain**
-![Version name explain](https://github.com/ZfIxV/Zecoar-Modpack/blob/main/EN.png)
+![Version name explain](https://github.com/ZfIxV/Zecoar-Modpack/blob/main/ES.png)
 Lastest letter:                                 
 B-Beta          
 A-Alpha                              
@@ -57,11 +57,11 @@ B-Normal
 
 **More interesting things**
 
-Classic modpack too boring? We have gameplay EX pack, [Click to know more](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/overrides/mods-ex/README.md)
+Classic modpack too boring? We have gameplay EX pack, [Click to know more](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/overrides/mods-ex/README-ES.md)
 
 **Like our resourcepack？**
 
-Our resourcepack will be independent of the Zecoar Modpack starting from 1.21, and you can use it in the corresponding version. Please rest assured that you can still see it in the Zecoar Modpack after 1.21.[Click to know more](https://github.com/ZfIxV/Zarba-Respack/tree/main/README.md)
+Our resourcepack will be independent of the Zecoar Modpack starting from 1.21, and you can use it in the corresponding version. Please rest assured that you can still see it in the Zecoar Modpack after 1.21.[Click to know more](https://github.com/ZfIxV/Zarba-Respack/tree/main/README-ES.md)
 
 **Feedback**
 
