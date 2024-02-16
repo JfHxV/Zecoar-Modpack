@@ -32,37 +32,37 @@
 [[日本語]](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/README-JP.md)   現在使用している言語は`繁体字中国語`です        
 [[한국어]](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/README-KO.md)   현재 사용하고 있는 언어는`중국어 번체`입니다         
 
-**How to play Zecoar Modpack**
+**怎麼遊玩 Zecoar 綜合包**
 
-1. Opening your Minecraft launcher（Such as：PCL2, HMCL, BakaCL and etc. launcher with the ability to import modpacks）
-2. Opening your import modpack interface（We do not provide a tutorial to find the interface for importing the modpack, please go online for help）
-3. Importing your downloaded modpack zip
-4. Wating for install
-5. When the modpack installed succsssfully, you can play with Zecoar Modpack.
+1. 打開您的 Minecraft 啟動器（例如：PCL2、HMCL、BakaCL等附有導入綜合包功能的啟動器）
+2. 打開導入綜合包介面（我們不提供找到導入綜合包介面的教程，請上網尋求幫助）
+3. 拖入/導入您下載的綜合包壓縮檔
+4. 等待安裝完成
+5. 待安裝完畢後即可遊玩
 
-**Version name explain**
-![Version name explain](https://github.com/ZfIxV/Zecoar-Modpack/blob/main/TC.png)
-Lastest letter:                                 
-B-Beta          
-A-Alpha                              
-R-Release                        
-Middle letter:                           
-E-EX                                            
-B-Normal                                              
+**版本名稱解釋**
+![版本名稱解釋](https://github.com/ZfIxV/Zecoar-Modpack/blob/main/TC.png)
+最後一比特字母：                   
+B-測試版                        
+A-早期測試版                      
+R-正式版                    
+中間一比特字母：                   
+E-擴展版                 
+B-普通版                    
 
-**Notes**
+**備註**
 
-1. <span id="ref1_en">This modpack is in preliminar porduction, please stay tuned.</span>
-2. <span id="ref2_en">Plz use `Java 17` or `higher Java ver.` to run it.</span>    
+1. <span id=“ref2”>綜合包正在製作中 敬請期待</span>
+2. <span id=“ref2”>請使用`Java 17`或`更高的 Java 版本`運行</span>
 
-**More interesting things**
+**更多有趣的東西**
 
-Classic modpack too boring? We have gameplay EX pack, [Click to know more](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/overrides/mods-ex/README-TC.md)
+原版綜合包太枯燥？ 我們有玩法擴展包。 [點擊以瞭解詳情](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/overrides/mods-ex/README-TC.md)
 
-**Like our resourcepack？**
+**喜歡我們的材質包？**
 
-Our resourcepack will be independent of the Zecoar Modpack starting from 1.21, and you can use it in the corresponding version. Please rest assured that you can still see it in the Zecoar Modpack after 1.21.[Click to know more](https://github.com/ZfIxV/Zarba-Respack/tree/main/README-TC.md)
+我們的材質包將在 1.21 開始獨立於 Zecoar 綜合包，您可以在對應的版本中使用它，請放心，1.21 之後您依舊可以在 Zecoar 綜合包中見到它。 [點擊以瞭解詳情](https://github.com/ZfIxV/Zarba-Respack/tree/main/README-TC.md)
 
-**Feedback**
+**反饋**
 
-If you encounter problems when playing this modpack, please feedback the problem to `Issue`
+如在遊玩本綜合包時遇到問題請將問題迴響至`Issue`欄目
