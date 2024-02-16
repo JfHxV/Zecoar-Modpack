@@ -41,7 +41,7 @@
 5. 待安装完毕后即可游玩
 
 **版本名称解释**
-![版本名称解释](https://github.com/ZfIxV/Zecoar-Modpack/blob/main/ZH.png)
+![版本名称解释](https://github.com/ZfIxV/Zecoar-Modpack/blob/main/SC.png)
 最后一位字母:                                 
 B-测试版                                      
 A-早期测试版                              

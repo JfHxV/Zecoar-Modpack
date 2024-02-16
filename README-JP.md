@@ -23,14 +23,14 @@
 
 #               
 
-**Language | 语言**
+**言語 | Language**
 
-[English](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/README.md)   The language you are currently using is `English`            
-[简体中文](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/README-SC.md)   您当前使用的语言是`英文`            
-[繁體中文](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/README-TC.md)   您當前使用的語言是`英文`            
-[Español](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/README-ES.md)   El idioma que utiliza actualmente es `inglés`           
-[日本語](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/README-JP.md)   現在使用している言語は`English`です           
-[한국어](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/README-KO.md)   현재 사용하고 있는 언어는`English`입니다            
+[[English]](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/README.md)   The language you are currently using is `Japanese`         
+[[简体中文]](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/README-SC.md)   您当前使用的语言是`日语`         
+[[繁體中文]](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/README-TC.md)   您當前使用的語言是`日語`         
+[[Español]](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/README-ES.md)   El idioma que utiliza actualmente es `Japonés`        
+[[日本語]](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/README-JP.md)   現在使用している言語は`日本語`です        
+[[한국어]](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/README-KO.md)   현재 사용하고 있는 언어는`일본어`입니다         
 
 **How to play Zecoar Modpack**
 
@@ -41,7 +41,7 @@
 5. When the modpack installed succsssfully, you can play with Zecoar Modpack.
 
 **Version name explain**
-![Version name explain](https://github.com/ZfIxV/Zecoar-Modpack/blob/main/EN.png)
+![Version name explain](https://github.com/ZfIxV/Zecoar-Modpack/blob/main/JP.png)
 Lastest letter:                                 
 B-Beta          
 A-Alpha                              
@@ -57,11 +57,11 @@ B-Normal
 
 **More interesting things**
 
-Classic modpack too boring? We have gameplay EX pack, [Click to know more](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/overrides/mods-ex/README.md)
+Classic modpack too boring? We have gameplay EX pack, [Click to know more](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/overrides/mods-ex/README-JP.md)
 
 **Like our resourcepack？**
 
-Our resourcepack will be independent of the Zecoar Modpack starting from 1.21, and you can use it in the corresponding version. Please rest assured that you can still see it in the Zecoar Modpack after 1.21.[Click to know more](https://github.com/ZfIxV/Zarba-Respack/tree/main/README.md)
+Our resourcepack will be independent of the Zecoar Modpack starting from 1.21, and you can use it in the corresponding version. Please rest assured that you can still see it in the Zecoar Modpack after 1.21.[Click to know more](https://github.com/ZfIxV/Zarba-Respack/tree/main/README-JP.md)
 
 **Feedback**
 
