@@ -1,14 +1,14 @@
 ![Cover](https://github.com/ZfIxV/Zecoar-Modpack/blob/main/Zecoar%20Modpack%20-%20Header.png)
 <div align="center">
   
-**泽扣整合包**
+**Zecoar 整合包**
 
 **《我的世界》原版 Fabric 整合包**                                        
 
-| 整合包 | 最新版本 | 爪哇版本 | 我的世界版本 |
+| 整合包 | 最新版本 | Java 版本 | 我的世界版本 |
 | :-: | :-: | :-: | :-: |
-| Zecoar 整合包 | 1.0 | ≥ Java 17 | 1.20.1 |
-| Zecoar 整合包测试版 | 0.8 | ≥ Java 17 | 1.20.1 |
+| Zecoar 整合包 | 1.0 | ≥ Java 17 | 1.20 |
+| Zecoar 整合包测试版 | 0.8 | ≥ Java 17 | 1.20 |
 <p>
     <img src="https://img.shields.io/badge/Mod%20Loader-Fabric-dbd0b4?style=flat" alt="Fabric Mod Loader" />
 </p>
@@ -54,7 +54,7 @@ B-普通版
 **备注**
 
 1.  <span id="ref2">整合包正在制作中 敬请期待</span>
-2.  <span id="ref2">请使用`爪哇 17`或`更高的爪哇版本`运行</span>
+2.  <span id="ref2">请使用`Java 17`或`更高的 Java 版本`运行</span>
 
 **更多有趣的东西**
 
