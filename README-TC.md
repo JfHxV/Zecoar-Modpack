@@ -40,6 +40,12 @@
 4. 等待安裝完成
 5. 待安裝完畢後即可遊玩
 
+**我沒有可以導入綜合包的啟動器怎麼辦**
+
+請放心，我們為您準備了帶有`導入綜合包`功能的啟動器下載連結（我們僅提供下載連結並不能保證此連結與檔案的安全性，連結內的任何內容都與 Zecoar 綜合包的作者無關，請自行分辨）
+
+[[PCL2]](https://ltcat.lanzoum.com/iEzke1kmuyyh) | [[HMCL]](https://url94.ctfile.com/f/tempdir-BWcFMVxtDWdUYAVlAztXMQUqVm8BNgk-XDRYOlQzVWoCalRjVXoAaQI3VzAJMFEzAzgFMVVlXGtfNw) | [[BakaXL]](https://www.bakaxl.com/)
+
 **版本名稱解釋**
 ![版本名稱解釋](https://github.com/ZfIxV/Zecoar-Modpack/blob/main/TC.png)
 最後一比特字母：                   

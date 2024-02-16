@@ -42,7 +42,7 @@
 
 **我没有可以导入整合包的启动器怎么办**
 
-请放心，我们为您准备了带有`导入整合包`功能的启动器下载链接（我们并不能保证此链接与文件的安全性，链接内的任何内容都与 Zecoar 整合包的作者无关，请自行分辨）
+请放心，我们为您准备了带有`导入整合包`功能的启动器下载链接（我们仅提供下载链接并不能保证此链接与文件的安全性，链接内的任何内容都与 Zecoar 整合包的作者无关，请自行分辨）
 
 [[PCL2]](https://ltcat.lanzoum.com/iEzke1kmuyyh) | [[HMCL]](https://url94.ctfile.com/f/tempdir-BWcFMVxtDWdUYAVlAztXMQUqVm8BNgk-XDRYOlQzVWoCalRjVXoAaQI3VzAJMFEzAzgFMVVlXGtfNw) | [[BakaXL]](https://www.bakaxl.com/)
 

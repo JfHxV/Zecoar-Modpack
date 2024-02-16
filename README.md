@@ -40,6 +40,15 @@
 4. Wating for install
 5. When the modpack installed succsssfully, you can play with Zecoar Modpack.
 
+**What if I don't have a launcher that can import consolidation packages**
+
+Don't worry, there is a import tutorial without launcher.
+
+1. Unpack the zip
+2. Open the folder after unpack
+3. Open `.minecraft`
+4. And copy all files in it into your Minecraft folder
+
 **Version name explain**
 ![Version name explain](https://github.com/ZfIxV/Zecoar-Modpack/blob/main/EN.png)
 Lastest letter:                                 
