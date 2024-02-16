@@ -23,15 +23,21 @@
 
 #               
 
-**Language | 语言**
+**Idiomas | Language**
 
-The language you are currently using is`English`
+The language you are currently using is `Spanish`         
+您当前使用的语言是`英文`         
+您當前使用的語言是`西班牙語`         
+El idioma que utiliza actualmente es `Español`        
+現在使用している言語は`English`です        
+현재 사용하고 있는 언어는`스페인어`입니다         
 
-[Click here](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/README-SC.md) to change to Chinese (Simplified)
-
-您当前使用的语言是`英文`
-
-[单击这里](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/README-SC.md)以切换至简体中文
+[English](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/README.md)           
+[简体中文](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/README-SC.md)            
+[繁體中文](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/README-TC.md)            
+[Español](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/README-ES.md)            
+[日本語](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/README-JP.md)           
+[한국어](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/README-KO.md)            
 
 **How to play Zecoar Modpack**
 

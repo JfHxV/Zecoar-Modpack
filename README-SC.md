@@ -25,13 +25,20 @@
 
 **语言 | Language**
 
-您当前使用的语言是`简体中文`
+The language you are currently using is `Chinese (Simplified)`         
+您当前使用的语言是`简体中文`         
+您當前使用的語言是`簡體中文`         
+El idioma que utiliza actualmente es `Chino simplificado`        
+現在使用している言語は`簡体字中国語`です        
+현재 사용하고 있는 언어는`중국어 간체`입니다         
 
-[单击这里](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/README.md)以切换至英文
+[English](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/README.md)           
+[简体中文](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/README-SC.md)            
+[繁體中文](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/README-TC.md)            
+[Español](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/README-ES.md)            
+[日本語](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/README-JP.md)           
+[한국어](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/README-KO.md)            
 
-The language you are currently using is`Chinese (Simplified)`
-
-[Click here](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/README.md) to change to English
 
 **怎么游玩 Zecoar 整合包**
 
