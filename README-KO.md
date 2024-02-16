@@ -5,7 +5,7 @@
                                   
 **Minecraft classic Fabric modpack**
 
-| Modpack | Latest Ver. | Java Ver. | Minecraft Ver. |
+| Modpack | 최신 버전 | Java 버전 | Minecraft 버전 |
 | :-: | :-: | :-: | :-: |
 | Zecoar Modpack | 1.0 | ≥Java 17 | 1.20.1 |
 | Zecoar Modpack Beta | 0.8 | ≥Java 17 | 1.20.1 |

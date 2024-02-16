@@ -1,11 +1,11 @@
 ![Cover](https://github.com/ZfIxV/Zecoar-Modpack/blob/main/Zecoar%20Modpack%20-%20Header.png)
 <div align="center">
   
-**Zecoar Modpack**
+**Zecoar 綜合包**
                                   
-**Minecraft classic Fabric modpack**
+**Minecraft 原版 Fabric 綜合包**
 
-| Modpack | Latest Ver. | Java Ver. | Minecraft Ver. |
+| 綜合包 | 最新版本 | Java 版本 | Minecraft 版本 |
 | :-: | :-: | :-: | :-: |
 | Zecoar Modpack | 1.0 | ≥Java 17 | 1.20.1 |
 | Zecoar Modpack Beta | 0.8 | ≥Java 17 | 1.20.1 |
@@ -17,7 +17,7 @@
 
 <div align="center">
 
-**Dedicated to players who enjoy playing the classic Minecraft**
+**獻給喜歡遊玩原版 Minecraft 的玩家**
   
 </div>
 
