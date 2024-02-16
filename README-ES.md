@@ -1,0 +1,69 @@
+![Cover](https://github.com/ZfIxV/Zecoar-Modpack/blob/main/Zecoar%20Modpack%20-%20Header.png)
+<div align="center">
+  
+**Zecoar Modpack**
+                                  
+**Minecraft classic Fabric modpack**
+
+| Modpack | Latest Ver. | Java Ver. | Minecraft Ver. |
+| :-: | :-: | :-: | :-: |
+| Zecoar Modpack | 1.0 | ≥Java 17 | 1.20.1 |
+| Zecoar Modpack Beta | 0.8 | ≥Java 17 | 1.20.1 |
+<p>
+    <img src="https://img.shields.io/badge/Mod%20Loader-Fabric-dbd0b4?style=flat" alt="Fabric Mod Loader" />
+</p>
+
+</div>
+
+<div align="center">
+
+**Dedicated to players who enjoy playing the classic Minecraft**
+  
+</div>
+
+#               
+
+**Language | 语言**
+
+The language you are currently using is`English`
+
+[Click here](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/README-SC.md) to change to Chinese (Simplified)
+
+您当前使用的语言是`英文`
+
+[单击这里](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/README-SC.md)以切换至简体中文
+
+**How to play Zecoar Modpack**
+
+1. Opening your Minecraft launcher（Such as：PCL2, HMCL, BakaCL and etc. launcher with the ability to import modpacks）
+2. Opening your import modpack interface（We do not provide a tutorial to find the interface for importing the modpack, please go online for help）
+3. Importing your downloaded modpack zip
+4. Wating for install
+5. When the modpack installed succsssfully, you can play with Zecoar Modpack.
+
+**Version name explain**
+![Version name explain](https://github.com/ZfIxV/Zecoar-Modpack/blob/main/EN.png)
+Lastest letter:                                 
+B-Beta          
+A-Alpha                              
+R-Release                        
+Middle letter:                           
+E-EX                                            
+B-Normal                                              
+
+**Notes**
+
+1. <span id="ref1_en">This modpack is in preliminar porduction, please stay tuned.</span>
+2. <span id="ref2_en">Plz use `Java 17` or `higher Java ver.` to run it.</span>    
+
+**More interesting things**
+
+Classic modpack too boring? We have gameplay EX pack, [Click to know more](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/overrides/mods-ex/README.md)
+
+**Like our resourcepack？**
+
+Our resourcepack will be independent of the Zecoar Modpack starting from 1.21, and you can use it in the corresponding version. Please rest assured that you can still see it in the Zecoar Modpack after 1.21.[Click to know more](https://github.com/ZfIxV/Zarba-Respack/tree/main/README.md)
+
+**Feedback**
+
+If you encounter problems when playing this modpack, please feedback the problem to `Issue`
