@@ -34,11 +34,17 @@
 
 **怎么游玩 Zecoar 整合包**
 
-1. 打开您的我的世界启动器（例如：PCL2、HMCL、BakaCL等附有导入整合包功能的启动器）
+1. 打开您的我的世界启动器（例如：PCL2、HMCL、BakaXL等附有导入整合包功能的启动器）
 2. 打开导入整合包界面（我们不提供找到导入整合包界面的教程，请上网寻求帮助）
 3. 拖入/导入您下载的整合包压缩文件
 4. 等待安装完成
 5. 待安装完毕后即可游玩
+
+**我没有可以导入整合包的启动器怎么办**
+
+请放心，我们为您准备了带有`导入整合包`功能的启动器下载链接（我们并不能保证此链接与文件的安全性，链接内的任何内容都与 Zecoar 整合包的作者无关，请自行分辨）
+
+[[PCL2]](https://ltcat.lanzoum.com/iEzke1kmuyyh) | [[HMCL]](https://url94.ctfile.com/f/tempdir-BWcFMVxtDWdUYAVlAztXMQUqVm8BNgk-XDRYOlQzVWoCalRjVXoAaQI3VzAJMFEzAzgFMVVlXGtfNw) | [[BakaXL]](https://www.bakaxl.com/)
 
 **版本名称解释**
 ![版本名称解释](https://github.com/ZfIxV/Zecoar-Modpack/blob/main/SC.png)

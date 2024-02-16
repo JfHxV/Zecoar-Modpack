@@ -34,7 +34,7 @@
 
 **How to play Zecoar Modpack**
 
-1. Opening your Minecraft launcher（Such as：PCL2, HMCL, BakaCL and etc. launcher with the ability to import modpacks）
+1. Opening your Minecraft launcher（Such as：PCL2, HMCL, BakaXL and etc. launcher with the ability to import modpacks）
 2. Opening your import modpack interface（We do not provide a tutorial to find the interface for importing the modpack, please go online for help）
 3. Importing your downloaded modpack zip
 4. Wating for install
