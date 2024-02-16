@@ -25,7 +25,7 @@
 
 **语言 | Language**
 
-您当前使用的语言是`中文`
+您当前使用的语言是`简体中文`
 
 [单击这里](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/README-EN.md)以切换至英文
 
