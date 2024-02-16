@@ -58,7 +58,11 @@ B-普通版
 
 **更多有趣的东西**
 
-原版整合包太枯燥？我们有玩法扩展包，[点击以了解](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/overrides/mods-ex/README.md)
+原版整合包太枯燥？我们有玩法扩展包。[点击以了解详情](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/overrides/mods-ex/README.md)
+
+**喜欢我们的材质包？**
+
+我们的材质包将在 1.21 开始独立于 Zecoar 整合包，您可以在对应的版本中使用它，请放心，1.21 之后您依旧可以在 Zecoar 整合包中见到它。[点击以了解详情](https://github.com/ZfIxV/Zarba-Respack/)
 
 **反馈**
 
