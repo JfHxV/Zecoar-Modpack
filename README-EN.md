@@ -31,7 +31,7 @@ The language you are currently using is`English`
 
 您当前使用的语言是`英文`
 
-[单击这里](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/README.md)以切换至中文
+[单击这里](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/README.md)以切换至简体中文
 
 **How to play Zecoar Modpack**
 
@@ -58,7 +58,11 @@ B-Normal
 
 **More interesting things**
 
-Classic modpack too boring? We have gameplay EX pack, [Clike to know](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/overrides/mods-ex/README-EN.md)
+Classic modpack too boring? We have gameplay EX pack, [Click to know more](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/overrides/mods-ex/README-EN.md)
+
+**Like our resourcepack？**
+
+Our resourcepack will be independent of the Zecoar Modpack starting from 1.21, and you can use it in the corresponding version. Please rest assured that you can still see it in the Zecoar Modpack after 1.21.[Click to know more](https://github.com/ZfIxV/Zarba-Respack/tree/main/README-EN.md)
 
 **Feedback**
 
