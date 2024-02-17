@@ -47,7 +47,7 @@ Don't worry, there is a import tutorial without launcher.
 1. Unpack the zip
 2. Open the folder after unpack
 3. Open `.minecraft`
-4. And copy all files in it into your Minecraft folder
+4. And copy all files in it into your Minecraft folder (This folder is usually located in `C:\Users\Your username\AppData\Roaming\.minecraft`. Before performing this operation, please `delete` the folder with the same name as the one in Zip. Please note that this operation will cause your original `resourcepack`, `mod`, and 'shaderpacks' to be `deleted`. Please make a `backup`.)
 
 **Version name explain**
 ![Version name explain](https://github.com/ZfIxV/Zecoar-Modpack/blob/main/JP.png)

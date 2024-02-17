@@ -46,6 +46,13 @@
 
 [[PCL2]](https://ltcat.lanzoum.com/iEzke1kmuyyh) | [[HMCL]](https://url94.ctfile.com/f/tempdir-BWcFMVxtDWdUYAVlAztXMQUqVm8BNgk-XDRYOlQzVWoCalRjVXoAaQI3VzAJMFEzAzgFMVVlXGtfNw) | [[BakaXL]](https://www.bakaxl.com/)
 
+您也可以选择直接将整合包导入到您的 Minecraft 文件夹，具体步骤如下：
+
+1.打開 Zip
+2.打開 Zip 後打開資料夾
+3.打開`.minecraft`
+4.並將其中的所有檔案複製到您的 Minecraft 資料夾中（該資料夾通常位於 `C:\Users\您的用戶名\AppData\Roaming\.minecraft\`，在執行此操作之前，請將該資料夾內與Zip中重名的資料夾`删除`。請注意！該操作會導致您原有的`材質包`和`模組`以及`光影`被删除，請做好`備份`）
+
 **版本名稱解釋**
 ![版本名稱解釋](https://github.com/ZfIxV/Zecoar-Modpack/blob/main/TC.png)
 最後一比特字母：                   
