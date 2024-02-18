@@ -5,7 +5,7 @@
                                   
 **Minecraft classic Fabric modpack**
 
-| Modpack | 最新バージョン | Java バージョン | Minecraft バージョン |
+| モジュールパック | 最新バージョン | Java バージョン | Minecraft バージョン |
 | :-: | :-: | :-: | :-: |
 | Zecoar Modpack | 1.0 | ≥Java 17 | 1.20.1 |
 | Zecoar Modpack Beta | 0.8 | ≥Java 17 | 1.20.1 |
@@ -17,7 +17,7 @@
 
 <div align="center">
 
-**Dedicated to players who enjoy playing the classic Minecraft**
+**オリジナル版 Minecraft をプレイするのが好きなプレイヤーへ**
   
 </div>
 
@@ -32,47 +32,47 @@
 [[日本語]](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/README-JP.md)   現在使用している言語は`日本語`です        
 [[한국어]](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/README-KO.md)   현재 사용하고 있는 언어는`일본어`입니다         
 
-**How to play Zecoar Modpack**
+**Zecoar モジュールバッグの遊び方**
 
-1. Opening your Minecraft launcher（Such as：PCL2, HMCL, BakaXL and etc. launcher with the ability to import modpacks）
-2. Opening your import modpack interface（We do not provide a tutorial to find the interface for importing the modpack, please go online for help）
-3. Importing your downloaded modpack zip
-4. Wating for install
-5. When the modpack installed succsssfully, you can play with Zecoar Modpack.
+1. あなたのマイワールドスタータを開く（例：PCL2、HMCL、BakaXLなどのインポートモジュールパッケージ機能付きスタータ）
+2. インポートモジュールパッケージインタフェースを開きます（インポートモジュールパッケージインタフェースを見つけるチュートリアルは提供していません。インターネットでヘルプを探してください）
+3. ダウンロードしたモジュールパッケージ圧縮ファイルをドラッグ/インポートする
+4. インストールが完了するまで待つ
+5. インストールが完了したらすぐに遊べる
 
-**What if I don't have a launcher that can import consolidation packages**
+**モジュールパッケージをインポートできるスタータがありません。どうすればいいですか。**
 
-Don't worry, there is a import tutorial without launcher.
+心配しないでください。ここにはイニシエータのないインポートチュートリアルがあります。
 
-1. Unpack the zip
-2. Open the folder after unpack
-3. Open `.minecraft`
-4. And copy all files in it into your Minecraft folder (This folder is usually located in `C:\Users\Your username\AppData\Roaming\.minecraft`. Before performing this operation, please `delete` the folder with the same name as the one in Zip. Please note that this operation will cause your original `resourcepack`, `mod`, and 'shaderpacks' to be `deleted`. Please make a `backup`.)
-5. Open Minecraft Launcher and choose a Fabric version(if you haven't Fabric ver., go online for help) and enjoy your game.
+1. ファスナーを開ける
+2. 梱包を開けてフォルダを開く
+3. 開く`.minecraft `
+4. その中のすべてのファイルを Minecraft フォルダにコピーします（このフォルダは通常 `C:\Users\あなたのユーザー名\AppData\Roaming\.Minecraft` にあります。この操作を実行する前に、Zip と同じ名前のフォルダを`削除`してください。この操作により、元の`resourcepack`、`mod`、`shaderpack`が`削除`されます。「バックアップ」してください。）
+5.Minecraft Launcher を開き、Fabric バージョンを選択し（Fabric バージョンがまだない場合はオンラインでヘルプを探してください）、ゲームを楽しんでください。
 
-**Version name explain**
-![Version name explain](https://github.com/ZfIxV/Zecoar-Modpack/blob/main/JP.png)
-Lastest letter:                                 
-B-Beta          
-A-Alpha                              
-R-Release                        
-Middle letter:                           
-E-EX                                            
-B-Normal                                              
+**バージョン名の説明**
+![バージョン名の説明](https://github.com/ZfIxV/Zecoar-Modpack/blob/main/JP.png)
+最後の文字:                                 
+B-テスト版          
+A-初期テスト版                              
+R-正式版                        
+中間文字:                           
+E-拡張版                                            
+B-通常版                                              
 
-**Notes**
+**コメント**
 
-1. <span id="ref1_en">This modpack is in preliminar porduction, please stay tuned.</span>
-2. <span id="ref2_en">Plz use `Java 17` or `higher Java ver.` to run it.</span>    
+1. <span id="ref1_en">このモジュールパッケージは初期生産中ですので、引き続き注意してください。</span>
+2. <span id="ref2_en">`Java 17`ま`たはそれ以上の Java` を使用して実行してください。</span>    
 
-**More interesting things**
+**もっと面白いこと**
 
-Classic modpack too boring? We have gameplay EX pack, [Click to know more](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/overrides/mods-ex/README-JP.md)
+定番のモジュールパックはつまらない？ゲーム拡張版パックをお持ちしております, [詳細はこちら](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/overrides/mods-ex/README-JP.md)
 
-**Like our resourcepack？**
+**私たちのリソースパッケージのように?**
 
-Our resourcepack will be independent of the Zecoar Modpack starting from 1.21, and you can use it in the corresponding version. Please rest assured that you can still see it in the Zecoar Modpack after 1.21.[Click to know more](https://github.com/ZfIxV/Zarba-Respack/tree/main/README-JP.md)
+1.21から、私たちのリソースパッケージは Zecoar モジュールパックとは独立しており、対応するバージョンで使用できます。安心してください。1.21以降もZecoar モジュールパックで見ることができます。[詳細はこちら](https://github.com/ZfIxV/Zarba-Respack/tree/main/README-JP.md)
 
-**Feedback**
+**フィードバック**
 
-If you encounter problems when playing this modpack, please feedback the problem to `Issue`
+このモジュールパックで問題が発生した場合は、問題を`Issue`にフィードバックしてください
