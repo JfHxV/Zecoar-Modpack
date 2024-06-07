@@ -67,7 +67,7 @@ B-通常版
 
 **もっと面白いこと**
 
-定番のモジュールパックはつまらない？ゲーム拡張版パックをお持ちしております, [詳細はこちら](https://github.com/ZfIxV/Zecoar-Modpack-EX/README-JP.md)
+定番のモジュールパックはつまらない？ゲーム拡張版パックをお持ちしております, [詳細はこちら](https://github.com/ZfIxV/Zecoar-Modpack-EX/tree/main/README-JP.md)
 
 **私たちのリソースパッケージのように?**
 

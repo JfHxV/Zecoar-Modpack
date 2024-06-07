@@ -71,7 +71,7 @@ B-普通版
 
 **更多有趣的東西**
 
-原版綜合包太枯燥？ 我們有玩法擴展包。 [點擊以瞭解詳情](https://github.com/ZfIxV/Zecoar-Modpack-EX/README-TC.md)
+原版綜合包太枯燥？ 我們有玩法擴展包。 [點擊以瞭解詳情](https://github.com/ZfIxV/Zecoar-Modpack-EX/tree/main/README-TC.md)
 
 **喜歡我們的材質包？**
 

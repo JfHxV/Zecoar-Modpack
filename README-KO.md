@@ -67,7 +67,7 @@ B-Normal
 
 **More interesting things**
 
-Classic modpack too boring? We have gameplay EX pack, [Click to know more](https://github.com/ZfIxV/Zecoar-Modpack-EX/README-KO.md)
+Classic modpack too boring? We have gameplay EX pack, [Click to know more](https://github.com/ZfIxV/Zecoar-Modpack-EX/tree/main/README-KO.md)
 
 **Like our resourcepack？**
 
