@@ -25,12 +25,12 @@
 
 **Language | 语言**
 
-[English](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/README.md)   The language you are currently using is `English`            
-[简体中文](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/README-SC.md)   您当前使用的语言是`英文`            
-[繁體中文](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/README-TC.md)   您當前使用的語言是`英文`            
-[Español](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/README-ES.md)   El idioma que utiliza actualmente es `inglés`           
-[日本語](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/README-JP.md)   現在使用している言語は`English`です           
-[한국어](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/README-KO.md)   현재 사용하고 있는 언어는`English`입니다            
+[[English]](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/README.md)   The language you are currently using is `English`            
+[[简体中文]](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/README-SC.md)   您当前使用的语言是`英文`            
+[[繁體中文]](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/README-TC.md)   您當前使用的語言是`英文`            
+[[Español]](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/README-ES.md)   El idioma que utiliza actualmente es `inglés`           
+[[日本語]](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/README-JP.md)   現在使用している言語は`English`です           
+[[한국어]](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/README-KO.md)   현재 사용하고 있는 언어는`English`입니다            
 
 **How to play Zecoar Modpack**
 

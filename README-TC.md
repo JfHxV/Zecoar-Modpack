@@ -7,8 +7,8 @@
 
 | 綜合包 | 最新版本 | Java 版本 | Minecraft 版本 |
 | :-: | :-: | :-: | :-: |
-| Zecoar Modpack | 1.0 | ≥Java 17 | 1.20.1 |
-| Zecoar Modpack Beta | 0.8 | ≥Java 17 | 1.20.1 |
+| Zecoar 綜合包 | 1.0 | ≥Java 17 | 1.20.1 |
+| Zecoar 綜合包測試版 | 0.8 | ≥Java 17 | 1.20.1 |
 <p>
     <img src="https://img.shields.io/badge/Mod%20Loader-Fabric-dbd0b4?style=flat" alt="Fabric Mod Loader" />
 </p>
@@ -25,7 +25,7 @@
 
 **語言 | Language**
 
-[[English]](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/README.md)   The language you are currently using is `Chinese (Traditional)`         
+[[English]](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/README.md)   The language you are currently using is `Traditional Chinese`         
 [[简体中文]](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/README-SC.md)   您当前使用的语言是`繁体中文`         
 [[繁體中文]](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/README-TC.md)   您當前使用的語言是`繁體中文`         
 [[Español]](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/README-ES.md)   El idioma que utiliza actualmente es `Chino tradicional`        

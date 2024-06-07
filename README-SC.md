@@ -25,7 +25,7 @@
 
 **语言 | Language**
 
-[[English]](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/README.md)   The language you are currently using is `Chinese (Simplified)`         
+[[English]](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/README.md)   The language you are currently using is `Simplified Chinese`         
 [[简体中文]](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/README-SC.md)   您当前使用的语言是`简体中文`         
 [[繁體中文]](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/README-TC.md)   您當前使用的語言是`簡體中文`         
 [[Español]](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/README-ES.md)   El idioma que utiliza actualmente es `Chino simplificado`        
