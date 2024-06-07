@@ -32,47 +32,44 @@
 [[日本語]](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/README-JP.md)   現在使用している言語は`スペイン語`です        
 [[한국어]](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/README-KO.md)   현재 사용하고 있는 언어는`스페인어`입니다         
 
-**How to play Zecoar Modpack**
+**cómo jugar con zecoar modpack?**
 
-1. Opening your Minecraft launcher（Such as：PCL2, HMCL, BakaXL and etc. launcher with the ability to import modpacks）
-2. Opening your import modpack interface（We do not provide a tutorial to find the interface for importing the modpack, please go online for help）
-3. Importing your downloaded modpack zip
-4. Wating for install
-5. When the modpack installed succsssfully, you can play with Zecoar Modpack.
+1. abra su arranque Minecraft (por ejemplo: PCL2, HMCL, Bakaxl, etc.) con la función de importar modpack
+2. abra su interfaz de importación modpack (no ofrecemos tutoriales para encontrar la interfaz para importar modpack, por favor busque ayuda en línea)
+3. importar el modpack zip descargado
+4. pendiente de instalación
+5. cuando el modpack se instale con éxito, puede usar el zecoar modpack para jugar.
 
-**What if I don't have a launcher that can import consolidation packages**
+**qué pasa si no tengo un arranque que pueda importar modpack?**
 
-Don't worry, there is a import tutorial without launcher.
+No te preocupes, aquí hay un tutorial de importación sin arranque.
 
-1. Unpack the zip
-2. Open the folder after unpack
-3. Open `.minecraft`
-4. And copy all files in it into your Minecraft folder (This folder is usually located in `C:\Users\Your username\AppData\Roaming\.minecraft`. Before performing this operation, please `delete` the folder with the same name as the one in Zip. Please note that this operation will cause your original `resourcepack`, `mod`, and 'shaderpacks' to be `deleted`. Please make a `backup`.)
-5. Open Minecraft Launcher and choose a Fabric version(if you haven't Fabric ver., go online for help) and enjoy your game.
+1. descargar el archivo `mods.zip` publicado con modpack
+2. extraer `mods.zip`;
+3. copie los archivos extraídos a la carpeta donde está listo para ejecutar el juego (necesita instalar su propio fabric) (esta carpeta debe estar en... / Minecraft name / mods).
 
-**Version name explain**
-![Version name explain](https://github.com/ZfIxV/Zecoar-Modpack/blob/main/EN.png)
-Lastest letter:                                 
-B-Beta          
-A-Alpha                              
-R-Release                        
-Middle letter:                           
-E-EX                                            
-B-Normal                                              
+**descripción del nombre de la versión**
+![descripción del nombre de la versión](https://github.com/ZfIxV/Zecoar-Modpack/blob/main/EN.png)
+Última carta:
+B-Beta
+A-Alpha
+R-Liberación
+Letras intermedias:
+E EX
+B-normal
 
-**Notes**
+**precauciones**
 
-1. <span id="ref1_en">This modpack is in preliminar porduction, please stay tuned.</span>
-2. <span id="ref2_en">Plz use `Java 17` or `higher Java ver.` to run it.</span>    
+1. <span id="ref1_en"> Si agregas un mod tú mismo, puede causar que el juego se bloquee, así que antes de agregar, asegúrate de que no entre en conflicto con el mod en el modpack /. Envergadura; salto; duración; (de puente o arco) distancia entre muelles; envergadura; incluyendo (vastas áreas)</span>
 
-**More interesting things**
+**cosas más interesantes**
 
-Classic modpack too boring? We have gameplay EX pack, [Click to know more](https://github.com/ZfIxV/Zecoar-Modpack-EX/tree/main/README-ES.md)
+¿El clásico modpack es demasiado aburrido? Tenemos el paquete ex del juego, [haga clic para aprender más](https://github.com/ZfIxV/Zecoar-Modpack-EX/tree/main/README-ES.md)
 
-**Like our resourcepack？**
+**como nuestro paquete de recursos**
 
-Our resourcepack will be independent of the Zecoar Modpack starting from 1.21, and you can use it in the corresponding version. Please rest assured that you can still see it in the Zecoar Modpack after 1.21.[Click to know more](https://github.com/ZfIxV/Zarba-Respack/tree/main/README-ES.md)
+A partir de 1.21, nuestro paquete de recursos será independiente de zecoar modpack, que puede usar en la versión correspondiente. Tenga la seguridad de que todavía puede verlo en el zecoar modpack después de 1.21. [haga clic para saber más](https://github.com/ZfIxV/Zarba-Respack/tree/main/README-ES.md)
 
-**Feedback**
+**Comentarios**
 
-If you encounter problems when playing this modpack, please feedback the problem to `Issue`
+Si tiene un problema jugando con este modpack, devuelva el problema a `issue`.

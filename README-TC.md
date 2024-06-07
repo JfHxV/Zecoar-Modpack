@@ -46,6 +46,8 @@
 
 [[PCL2]](https://ltcat.lanzoum.com/iEzke1kmuyyh) | [[HMCL]](https://url94.ctfile.com/f/tempdir-BWcFMVxtDWdUYAVlAztXMQUqVm8BNgk-XDRYOlQzVWoCalRjVXoAaQI3VzAJMFEzAzgFMVVlXGtfNw) | [[BakaXL]](https://www.bakaxl.com/)  （以上的啟動器僅支持簡體中文）
 
+2.自行下載綜合包內的模組，我們將會把綜合包內的模組打包成壓縮包，並與綜合包待下載完成後，您只需要將解壓縮的`.jar`檔案複製進已經準備好的運行遊戲（需自行安裝Fabric）資料夾即可（這個資料夾應該在./minecraft name/mods）。
+
 您也可以选择直接将整合包导入到您的 Minecraft 文件夹，具体步骤如下：
 
 1. 打開 Zip
@@ -66,8 +68,7 @@ B-普通版
 
 **備註**
 
-1. <span id=“ref2”>綜合包正在製作中 敬請期待</span>
-2. <span id=“ref2”>請使用`Java 17`或`更高的 Java 版本`運行</span>
+1. <span id=“ref2”>如果您自行添加模組，可能會導致遊戲崩潰，所以在添加之前，確保它不會與綜合包內的模組衝突。</span>
 
 **更多有趣的東西**
 

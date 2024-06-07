@@ -40,15 +40,13 @@
 4. Wating for install
 5. When the modpack installed succsssfully, you can play with Zecoar Modpack.
 
-**What if I don't have a launcher that can import consolidation packages**
+**What if I don't have a launcher that can import Modpacks**
 
 Don't worry, there is a import tutorial without launcher.
 
-1. Unpack the zip
-2. Open the folder after unpack
-3. Open `.minecraft`
-4. And copy all files in it into your Minecraft folder (This folder is usually located in `C:\Users\Your username\AppData\Roaming\.minecraft`. Before performing this operation, please `delete` the folder with the same name as the one in Zip. Please note that this operation will cause your original `resourcepack`, `mod`, and 'shaderpacks' to be `deleted`. Please make a `backup`.)
-5. Open Minecraft Launcher and choose a fabric version(if you haven't fabric ver., go online for help) and enjoy your game.
+1. Download the `mods.zip` file released together with the modpacks
+2. Extract `mods.zip`
+3. Copy the extracted files into the folder that is ready to run the game (you need to install Fabric yourself) (this folder should be in ./minecraft name/mods).
 
 **Version name explain**
 ![Version name explain](https://github.com/ZfIxV/Zecoar-Modpack/blob/main/EN.png)
@@ -62,8 +60,7 @@ B-Normal
 
 **Notes**
 
-1. <span id="ref1_en">This modpack is in preliminar porduction, please stay tuned.</span>
-2. <span id="ref2_en">Plz use `Java 17` or `higher Java ver.` to run it.</span>    
+1. <span id="ref1_en">If you add a mod yourself, it may cause the game to crash, so before adding it, make sure it does not conflict with the mods in the modpack.</span>
 
 **More interesting things**
 

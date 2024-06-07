@@ -46,6 +46,8 @@
 
 [[PCL2]](https://ltcat.lanzoum.com/iEzke1kmuyyh) | [[HMCL]](https://url94.ctfile.com/f/tempdir-BWcFMVxtDWdUYAVlAztXMQUqVm8BNgk-XDRYOlQzVWoCalRjVXoAaQI3VzAJMFEzAzgFMVVlXGtfNw) | [[BakaXL]](https://www.bakaxl.com/)
 
+2.自行下载整合包内的模组，我们将会把整合包内的模组打包成压缩包，并与整合包待下载完成后，您只需要将解压缩的`.jar`文件复制进已经准备好的运行游戏（需自行安装 Fabric）文件夹即可（这个文件夹应该在./minecraft name/mods）。
+
 **版本名称解释**
 ![版本名称解释](https://github.com/ZfIxV/Zecoar-Modpack/blob/main/SC.png)
 最后一位字母:                                 
@@ -58,8 +60,7 @@ B-普通版
 
 **备注**
 
-1.  <span id="ref2">整合包正在制作中 敬请期待</span>
-2.  <span id="ref2">请使用`Java 17`或`更高的 Java 版本`运行</span>
+1.  <span id="ref2">如果您自行添加模组，可能会导致游戏崩溃，所以在添加之前，确保它不会与整合包内的模组冲突。</span>
 
 **更多有趣的东西**
 

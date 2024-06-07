@@ -32,47 +32,44 @@
 [[日本語]](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/README-JP.md)   現在使用している言語は`韓国語`です        
 [[한국어]](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/README-KO.md)   현재 사용하고 있는 언어는`한국어`입니다         
 
-**How to play Zecoar Modpack**
+**Zecoar Modpack 플레이 방법**
 
-1. Opening your Minecraft launcher（Such as：PCL2, HMCL, BakaXL and etc. launcher with the ability to import modpacks）
-2. Opening your import modpack interface（We do not provide a tutorial to find the interface for importing the modpack, please go online for help）
-3. Importing your downloaded modpack zip
-4. Wating for install
-5. When the modpack installed succsssfully, you can play with Zecoar Modpack.
+1. Minecraft 이니시에이터를 엽니다(예: PCL2, HMCL, BakaXL 등 modpacks 가져오기 기능이 있는 이니시에이터).
+2. 가져오기 modpack 인터페이스 열기 (modpack 가져오기 인터페이스를 찾을 수 있는 자습서를 제공하지 않습니다. 온라인으로 도움을 요청하십시오.)
+3. 다운로드한 modpack zip 가져오기
+4. 설치 대기 중
+5. modpack이 설치되면 Zecoar modpack을 사용하여 게임을 할 수 있습니다.
 
-**What if I don't have a launcher that can import consolidation packages**
+**Modpacks를 가져올 수 있는 이니시에이터가 없으면 어떻게 합니까?**
 
-Don't worry, there is a import tutorial without launcher.
+걱정하지 마십시오. 이니시에이터가 없는 가져오기 자습서가 있습니다.
 
-1. Unpack the zip
-2. Open the folder after unpack
-3. Open `.minecraft`
-4. And copy all files in it into your Minecraft folder (This folder is usually located in `C:\Users\Your username\AppData\Roaming\.minecraft`. Before performing this operation, please `delete` the folder with the same name as the one in Zip. Please note that this operation will cause your original `resourcepack`, `mod`, and 'shaderpacks' to be `deleted`. Please make a `backup`.)
-5. Open Minecraft Launcher and choose a Fabric version(if you haven't Fabric ver., go online for help) and enjoy your game.
+1. modpacks와 함께 게시된 `mods.zip` 파일 다운로드
+2. `mods.zip` 추출
+3. 추출된 파일을 게임을 실행할 폴더로 복사합니다 (직접 Fabric을 설치해야 함)(./minecraft name/mods에 있어야 함).
 
-**Version name explain**
-![Version name explain](https://github.com/ZfIxV/Zecoar-Modpack/blob/main/EN.png)
-Lastest letter:                                 
-B-Beta          
-A-Alpha                              
-R-Release                        
-Middle letter:                           
-E-EX                                            
-B-Normal                                              
+**버전 이름 설명**
+![버전 이름 설명](https://github.com/ZfIxV/Zecoar-Modpack/blob/main/EN.png)
+마지막 편지:
+B-베타 버전
+A-초기 베타
+R-릴리스
+중간 문자:
+E-EX
+B-정상
 
-**Notes**
+**참고 사항**
 
-1. <span id="ref1_en">This modpack is in preliminar porduction, please stay tuned.</span>
-2. <span id="ref2_en">Plz use `Java 17` or `higher Java ver.` to run it.</span>    
+1.<span id="ref1_en">자신이 mod를 추가하면 게임이 충돌할 수 있으므로 추가하기 전에 modpack의 mod와 충돌하지 않도록 하십시오.</span>
 
-**More interesting things**
+**더 재미있는 일**
 
-Classic modpack too boring? We have gameplay EX pack, [Click to know more](https://github.com/ZfIxV/Zecoar-Modpack-EX/tree/main/README-KO.md)
+클래식한 모닥이 너무 심심한데?우리는 게임 EX 패키지가 있습니다, [자세한 내용을 보려면 클릭](https://github.com/ZfIxV/Zecoar-Modpack-EX/tree/main/README-ES.md)
 
-**Like our resourcepack？**
+**리소스 팩**
 
-Our resourcepack will be independent of the Zecoar Modpack starting from 1.21, and you can use it in the corresponding version. Please rest assured that you can still see it in the Zecoar Modpack after 1.21.[Click to know more](https://github.com/ZfIxV/Zarba-Respack/tree/main/README-KO.md)
+1.21부터 리소스 패키지는 Zecoar Modpack과 독립적이며 해당 버전에서 사용할 수 있습니다.1.21 이후에도 Zecoar Modpack에서 볼 수 있으니 안심하십시오. [자세히 보기 클릭](https://github.com/ZfIxV/Zarba-Respack/tree/main/README-ES.md)
 
-**Feedback**
+**피드백**
 
-If you encounter problems when playing this modpack, please feedback the problem to `Issue`
+이 Modpack을 플레이하는 동안 문제가 발생하면 `Issue` 에게 문제를 반환하십시오.
