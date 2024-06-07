@@ -55,7 +55,7 @@
 5. 打開 Minecraft Launcher，選擇一個 Fabric 版本（如果你還沒有 Fabric 版本，請線上尋求幫助），接下來享受你的遊戲。
 
 **版本名稱解釋**
-![版本名稱解釋](https://github.com/ZfIxV/Zecoar-Modpack/blob/main/TC.png)
+![版本名稱解釋](https://github.com/ZfIxV/Zecoar-Modpack/blob/main/SC.png)
 最後一比特字母：                   
 B-測試版                        
 A-早期測試版                      

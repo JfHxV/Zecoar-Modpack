@@ -51,7 +51,7 @@ Don't worry, there is a import tutorial without launcher.
 5. Open Minecraft Launcher and choose a Fabric version(if you haven't Fabric ver., go online for help) and enjoy your game.
 
 **Version name explain**
-![Version name explain](https://github.com/ZfIxV/Zecoar-Modpack/blob/main/KO.png)
+![Version name explain](https://github.com/ZfIxV/Zecoar-Modpack/blob/main/EN.png)
 Lastest letter:                                 
 B-Beta          
 A-Alpha                              

@@ -51,7 +51,7 @@
 5.Minecraft Launcher を開き、Fabric バージョンを選択し（Fabric バージョンがまだない場合はオンラインでヘルプを探してください）、ゲームを楽しんでください。
 
 **バージョン名の説明**
-![バージョン名の説明](https://github.com/ZfIxV/Zecoar-Modpack/blob/main/JP.png)
+![バージョン名の説明](https://github.com/ZfIxV/Zecoar-Modpack/blob/main/EN.png)
 最後の文字:                                 
 B-テスト版          
 A-初期テスト版                              
