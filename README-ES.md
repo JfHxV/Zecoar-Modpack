@@ -32,7 +32,7 @@
 [[日本語]](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/README-JP.md)   現在使用している言語は`スペイン語`です        
 [[한국어]](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/README-KO.md)   현재 사용하고 있는 언어는`스페인어`입니다         
 
-**¿cómo jugar con zecoar modpack?**
+**¿cómo jugar con Zecoar Modpack?**
 
 1. abra su arranque Minecraft (por ejemplo: PCL2, HMCL, Bakaxl, etc.) con la función de importar modpack
 2. abra su interfaz de importación modpack (no ofrecemos tutoriales para encontrar la interfaz para importar modpack, por favor busque ayuda en línea)
