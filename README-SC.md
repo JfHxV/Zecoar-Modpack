@@ -63,7 +63,7 @@ B-普通版
 
 **更多有趣的东西**
 
-原版整合包太枯燥？我们有玩法扩展包。[点击以了解详情](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/overrides/mods-ex/README-SC.md)
+原版整合包太枯燥？我们有玩法扩展包。[点击以了解详情](https://github.com/ZfIxV/Zecoar-Modpack-EX/README-SC.md)
 
 **喜欢我们的材质包？**
 
