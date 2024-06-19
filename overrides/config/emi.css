@@ -29,7 +29,7 @@
 	/**
 	 * Whether normal search queries should include the mod name.
 	 */
-	search-mod-name-by-default: false;
+	search-mod-name-by-default: true;
 
 	/**
 	 * Whether normal search queries should include the stack's tags.
@@ -146,7 +146,7 @@
 	/**
 	 * The pages in the left sidebar
 	 */
-	left-sidebar-pages: favorites;
+	left-sidebar-pages: none;
 
 	/**
 	 * The subpanels in the left sidebar
@@ -216,7 +216,7 @@
 	/**
 	 * The pages in the top sidebar
 	 */
-	top-sidebar-pages: none;
+	top-sidebar-pages: craft-history;
 
 	/**
 	 * The subpanels in the top sidebar
