@@ -9,6 +9,7 @@
 | :-: | :-: | :-: | :-: |
 | Zecoar Modpack | 1.0 | ≥Java 17 | 1.20.1 |
 | Zecoar Modpack Beta | 0.8 | ≥Java 17 | 1.20.1 |
+| Zecoar Modpack Alpha | 0.1 | ≥Java 21 | 1.21 |
 <p>
     <img src="https://img.shields.io/badge/Mod%20Loader-Fabric-dbd0b4?style=flat" alt="Fabric Mod Loader" />
 </p>

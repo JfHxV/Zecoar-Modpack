@@ -22,10 +22,10 @@
     "debugLogging": false,
     "easyPlaceFirst": true,
     "easyPlaceHoldEnabled": true,
-    "easyPlaceMode": false,
+    "easyPlaceMode": true,
     "easyPlaceSinglePlayerHandling": true,
     "easyPlaceProtocolVersion": "auto",
-    "easyPlaceVanillaReach": false,
+    "easyPlaceVanillaReach": true,
     "executeRequireHoldingTool": true,
     "fixChestMirror": true,
     "fixRailRotation": true,
@@ -74,7 +74,7 @@
       "keys": "M,A"
     },
     "cloneSelection": {
-      "keys": ""
+      "keys": "KP_MULTIPLY"
     },
     "deleteSelectionBox": {
       "keys": ""
@@ -86,7 +86,7 @@
       "keys": ""
     },
     "executeOperation": {
-      "keys": ""
+      "keys": "GRAVE_ACCENT,K"
     },
     "invertGhostBlockRenderState": {
       "keys": ""
@@ -149,7 +149,7 @@
       "keys": "M,C"
     },
     "operationModeChangeModifier": {
-      "keys": ""
+      "keys": "LEFT_CONTROL"
     },
     "pickBlockFirst": {
       "keys": ""

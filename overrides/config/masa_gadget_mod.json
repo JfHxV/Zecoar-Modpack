@@ -48,7 +48,7 @@
     "betterEasyPlaceMode": {
       "enabled": true,
       "hotkey": {
-        "keys": "KP_ADD"
+        "keys": ""
       }
     },
     "saveInventoryToSchematicInServer": true,

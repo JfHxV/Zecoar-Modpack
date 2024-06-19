@@ -9,6 +9,7 @@
 | :-: | :-: | :-: | :-: |
 | Zecoar 綜合包 | 1.0 | ≥Java 17 | 1.20.1 |
 | Zecoar 綜合包測試版 | 0.8 | ≥Java 17 | 1.20.1 |
+| Zecoar 綜合包早期測試版 | 0.1 | ≥Java 21 | 1.21 |
 <p>
     <img src="https://img.shields.io/badge/Mod%20Loader-Fabric-dbd0b4?style=flat" alt="Fabric Mod Loader" />
 </p>
