@@ -45,9 +45,9 @@
 
 No te preocupes, aquí hay un tutorial de importación sin arranque.
 
-1. descargar el archivo `mods.zip` publicado con modpack
-2. extraer `mods.zip`;
-3. copie los archivos extraídos a la carpeta donde está listo para ejecutar el juego (necesita instalar su propio fabric) (esta carpeta debe estar en... / Minecraft name / mods).
+1. descargar el archivo, que es el final del "iv" publicado con modpack
+2. extracción
+3. copie los archivos extraídos a la carpeta donde está listo para ejecutar el juego (necesita instalar su propio fabric) (esta carpeta debe estar en... / Minecraft name).
 
 **descripción del nombre de la versión**
 ![descripción del nombre de la versión](https://github.com/ZfIxV/Zecoar-Modpack/blob/main/EN.png)

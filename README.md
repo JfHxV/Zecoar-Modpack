@@ -45,9 +45,9 @@
 
 Don't worry, there is a import tutorial without launcher.
 
-1. Download the `mods.zip` file released together with the modpacks
-2. Extract `mods.zip`
-3. Copy the extracted files into the folder that is ready to run the game (you need to install Fabric yourself) (this folder should be in ./minecraft name/mods).
+1. Download the file which file is end of `IV` released together with the modpacks
+2. Extract it
+3. Copy the extracted files into the folder that is ready to run the game (you need to install Fabric yourself) (this folder should be in ./minecraft name).
 
 **Version name explain**
 ![Version name explain](https://github.com/ZfIxV/Zecoar-Modpack/blob/main/EN.png)

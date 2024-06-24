@@ -45,9 +45,9 @@
 
 걱정하지 마십시오. 이니시에이터가 없는 가져오기 자습서가 있습니다.
 
-1. modpacks와 함께 게시된 `mods.zip` 파일 다운로드
-2. `mods.zip` 추출
-3. 추출된 파일을 게임을 실행할 폴더로 복사합니다 (직접 Fabric을 설치해야 함)(./minecraft name/mods에 있어야 함).
+1. Modpacks와 함께 게시된 "IV"의 끝인 파일을 다운로드합니다.
+2. 추출
+3. 추출된 파일을 게임을 실행할 폴더로 복사합니다 (직접 Fabric을 설치해야 함)(./minecraft name에 있어야 함).
 
 **버전 이름 설명**
 ![버전 이름 설명](https://github.com/ZfIxV/Zecoar-Modpack/blob/main/EN.png)
