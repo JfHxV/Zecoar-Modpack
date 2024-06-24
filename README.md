@@ -10,6 +10,18 @@
 | Zecoar Modpack | 1.0 | ≥Java 17 | 1.20.1 |
 | Zecoar Modpack Beta | 0.8 | ≥Java 17 | 1.20.1 |
 | Zecoar Modpack Alpha | 0.1 | ≥Java 21 | 1.21 |
+
+| Minecraft Ver. | Zecoar Modpack Alpha | Zecoar Modpack Beta | Zecoar Modpack |
+| :-: | :-: | :-: | :-: |
+| 1.20 | Unavailable | Available | Unavailable |
+| 1.20.1 | Unavailable | Unavailable | Unavailable |
+| 1.20.2 | Unavailable | Unavailable | Unavailable |
+| 1.20.3 | Unavailable | Unavailable | Unavailable |
+| 1.20.4 | Unavailable | Unavailable | Unavailable |
+| 1.20.5 | Unavailable | Unavailable | Unavailable |
+| 1.20.6 | Unavailable | Unavailable | Unavailable |
+| 1.21 | Available | Unavailable | Unavailable |
+
 <p>
     <img src="https://img.shields.io/badge/Mod%20Loader-Fabric-dbd0b4?style=flat" alt="Fabric Mod Loader" />
 </p>
