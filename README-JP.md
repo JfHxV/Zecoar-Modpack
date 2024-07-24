@@ -56,6 +56,10 @@
 2. 抽出
 3. 抽出したファイルをゲームを実行する準備ができているフォルダにコピーします（Fabricを自分でインストールする必要があります）（このフォルダは./minecraft nameにある必要があります）。
 
+新しいインポート権限！
+
+Modrinthにmodpackをアップロードしました！[詳細を見るにはクリック](https://modrinth.com/modpack/zecoar-modpack)
+
 **バージョン名の説明**
 ![バージョン名の説明](https://github.com/ZfIxV/Zecoar-Modpack/blob/main/EN.png)
 最後の文字:                                 

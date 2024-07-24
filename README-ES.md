@@ -56,6 +56,10 @@ No te preocupes, aquí hay un tutorial de importación sin arranque.
 2. extracción
 3. copie los archivos extraídos a la carpeta donde está listo para ejecutar el juego (necesita instalar su propio fabric) (esta carpeta debe estar en... / Minecraft name).
 
+¡¡ nuevos permisos de importación!
+
+¡¡ ya hemos subido el modpack en Modrinth![haga clic para saber más](https://modrinth.com/modpack/zecoar-modpack)
+
 **descripción del nombre de la versión**
 ![descripción del nombre de la versión](https://github.com/ZfIxV/Zecoar-Modpack/blob/main/EN.png)
 Última carta:

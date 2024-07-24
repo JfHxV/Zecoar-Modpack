@@ -56,6 +56,10 @@
 2. 추출
 3. 추출된 파일을 게임을 실행할 폴더로 복사합니다 (직접 Fabric을 설치해야 함)(./minecraft name에 있어야 함).
 
+새 가져오기 권한!
+
+저희가 모드린스에 모닥팩을 올렸습니다![자세한 내용을 보려면 클릭](https://modrinth.com/modpack/zecoar-modpack)
+
 **버전 이름 설명**
 ![버전 이름 설명](https://github.com/ZfIxV/Zecoar-Modpack/blob/main/EN.png)
 마지막 편지:

@@ -64,6 +64,11 @@
 4. 並將其中的所有檔案複製到您的 Minecraft 資料夾中（該資料夾通常位於 `C:\Users\您的用戶名\AppData\Roaming\.minecraft\`，在執行此操作之前，請將該資料夾內與Zip中重名的資料夾`删除`。請注意！該操作會導致您原有的`材質包`和`模組`以及`光影`被删除，請做好`備份`）
 5. 打開 Minecraft Launcher，選擇一個 Fabric 版本（如果你還沒有 Fabric 版本，請線上尋求幫助），接下來享受你的遊戲。
 
+導入的船新途徑！
+
+我們已經將綜合包上傳到了Modrinth！ [按一下以瞭解更多](https://modrinth.com/modpack/zecoar-modpack)
+
+
 **版本名稱解釋**
 ![版本名稱解釋](https://github.com/ZfIxV/Zecoar-Modpack/blob/main/SC.png)
 最後一比特字母：                   
