@@ -72,7 +72,8 @@ B-정상
 
 **참고 사항**
 
-1.<span id="ref1_en">자신이 mod를 추가하면 게임이 충돌할 수 있으므로 추가하기 전에 modpack의 mod와 충돌하지 않도록 하십시오.</span>
+1. <span id="ref1_en">자신이 mod를 추가하면 게임이 충돌할 수 있으므로 추가하기 전에 modpack의 mod와 충돌하지 않도록 하십시오.</span>
+2. 셰이더 패키지 "ComplementaryReimagined"는 EminGT에 속합니다.이 셰이더 패키지에 대한 모든 문제는 Zecoar Modpack의 작성자가 전적으로 담당합니다.
 
 **더 재미있는 일**
 

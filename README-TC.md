@@ -82,6 +82,7 @@ B-普通版
 **備註**
 
 1. <span id=“ref2”>如果您自行添加模組，可能會導致遊戲崩潰，所以在添加之前，確保它不會與綜合包內的模組衝突。</span>
+2. 光影“ComplementaryReimagined”屬於EminGT。 關於此光影的任何問題都完全由Zecoar Modpack的作者負責。
 
 **更多有趣的東西**
 

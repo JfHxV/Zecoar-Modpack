@@ -73,6 +73,7 @@ B-normal
 **precauciones**
 
 1. <span id="ref1_en"> Si agregas un mod tú mismo, puede causar que el juego se bloquee, así que antes de agregar, asegúrate de que no entre en conflicto con el mod en el modpack /. Envergadura; salto; duración; (de puente o arco) distancia entre muelles; envergadura; incluyendo (vastas áreas)</span>
+2. El paquete de color "ComplementaryReimagined" pertenece a emingt. Cualquier pregunta sobre este paquete de colores es responsabilidad exclusiva de los autores de zecoar modpack.
 
 **cosas más interesantes**
 

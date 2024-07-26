@@ -73,6 +73,7 @@ B-Normal
 **Notes**
 
 1. <span id="ref1_en">If you add a mod yourself, it may cause the game to crash, so before adding it, make sure it does not conflict with the mods in the modpack.</span>
+2. The shaderpack "ComplementaryReimagined" is belong to EminGT.Any problem about this shaderpack is entirely under the responsibility of the author of Zecoar Modpack.
 
 **More interesting things**
 
