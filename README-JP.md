@@ -1,4 +1,7 @@
 ![Cover](https://github.com/ZfIxV/Zecoar-Modpack/blob/main/Zecoar%20Modpack%20-%20Header.png)
+
+**注：このmodpackはGithubでは使用されていません。こちらの[Modrinthページ](https://modrinth.com/modpack/zecoar-modpack/)**
+
 <div align="center">
   
 **Zecoar Modpack**

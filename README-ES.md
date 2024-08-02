@@ -1,4 +1,7 @@
 ![Cover](https://github.com/ZfIxV/Zecoar-Modpack/blob/main/Zecoar%20Modpack%20-%20Header.png)
+
+**nota: este modpack ha sido abandonado en Github, por favor muevase a nuestra [página Modrinth](https://modrinth.com/modpack/zecoar-modpack/)**
+
 <div align="center">
   
 **Zecoar Modpack**
