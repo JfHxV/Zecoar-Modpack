@@ -8,20 +8,25 @@
                                   
 **Minecraft classic Fabric modpack**
 
-| Modpack | Latest Ver. | Java Ver. | Minecraft Ver. |
+| Zecoar Modpack | Latest Ver. | Java Ver. | Minecraft Ver. |
 | :-: | :-: | :-: | :-: |
-| Zecoar Modpack | 1.0 | ≥Java 17 | 1.20.1 |
-| Zecoar Modpack Beta | 0.8 | ≥Java 17 | 1.20.1 |
-| Zecoar Modpack Alpha | 0.5 | ≥Java 21 | 1.21 |
+| Release | 1.0.0 | ≥Java 21 | 1.21.8 |
+| Beta | 0.1.0 | ≥Java 21 | 1.21.4 |
+| Alpha | 0.0.1 | ≥Java 21 | 1.21.8 |
 
-| Minecraft Ver. | Zecoar Modpack Alpha | Zecoar Modpack Beta | Zecoar Modpack |
+| Minecraft Ver. | Alpha | Beta | Release |
 | :-: | :-: | :-: | :-: |
 | 1.20 | Unavailable | Available | Unavailable |
 | 1.20.x | Unavailable | Unavailable | Unavailable |
-| 1.21 | Available | Unavailable | Unavailable |
+| 1.21 | Available | Available | Available |
+| 1.21.3 | Unavailable | Available | Unavailable |
+| 1.21.4 | Unavailable | Available | Unavailable |
+| 1.21.8 | Available | Unavailable | Available |
 
 <p>
-    <img src="https://img.shields.io/badge/Mod%20Loader-Fabric-dbd0b4?style=flat" alt="Fabric Mod Loader" />
+  <img src="https://img.shields.io/badge/Mod%20Loader-Fabric-dbd0b4?style=flat" alt="Fabric Mod Loader" />
+  <img src="https://img.shields.io/badge/Rainbowpixel-Avalible-fb5a8a?style=flat" alt="Avalible Rainbowpixel">
+  <img src="https://img.shields.io/badge/No%20Modfiy-Gameplay-83d8ff?style=flat" alt="No Modfiy to the Gameplay">
 </p>
 
 </div>
@@ -37,31 +42,40 @@
 **Language | 语言**
 
 [[English]](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/README.md)   The language you are currently using is `English`            
-[[简体中文]](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/README-SC.md)   您当前使用的语言是`英文`            
-[[繁體中文]](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/README-TC.md)   您當前使用的語言是`英文`            
-[[Español]](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/README-ES.md)   El idioma que utiliza actualmente es `inglés`           
-[[日本語]](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/README-JP.md)   現在使用している言語は`English`です           
-[[한국어]](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/README-KO.md)   현재 사용하고 있는 언어는`English`입니다            
+[[简体中文]](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/README-SC.md)   您当前使用的语言是`英文`                     
 
-**How to play Zecoar Modpack**
+**Switch Resourcepacks**
 
-1. Opening your Minecraft launcher（Such as：PCL2, HMCL, BakaXL and etc. launcher with the ability to import modpacks）
-2. Opening your import modpack interface（We do not provide a tutorial to find the interface for importing the modpack, please go online for help）
-3. Importing your downloaded modpack zip
-4. Wating for install
-5. When the modpack installed succsssfully, you can play with Zecoar Modpack.
+Don't like Rainbowpixel? Don't worry. We have in-built another three resoucepacks —— CozyUI+, OreUI and Unique Dark Refined.
 
-**What if I don't have a launcher that can import Modpacks**
+If you want to switch resourcepacks, you must disable `彩虹像素RainbowPixel~☆...`, `彩虹像素☆村民交易UI删减包`, `南烛☆彩虹像素GUI`, `南烛☆果冻血量x曲奇饱食度` and `南烛☆新版彩色物品栏`, than you can enable the resourcepack which you want to use.
 
-Don't worry, there is a import tutorial without launcher.
+**Configuration Requirements**
+              
+_*Attention: Distant Horizon defaults to off, the enabled shaderpacks is Complementary Reimgained._
+              
+             
+Lowest | Disable Shader, Distant Horizons Off                                                            
+GPU: Intel Iris Xe Graphics                  
+Memory: 8 GB                                
+Storge: 500 MB                         
 
-1. Download the file which file is end of `IV` released together with the modpacks
-2. Extract it
-3. Copy the extracted files into the folder that is ready to run the game (you need to install Fabric yourself) (this folder should be in ./minecraft name).
+Lowest | Enable Shader, Distant Horizons Off                                                
+GPU: NVIDIA GeForce GTX 1660 Super                                       
+Memory: 8 GB                         
+Storge: 500 MB                      
 
-New access to import!
+Recommend | Disable Shader (Distant Horizons: 32 Chunks, CPU Usage Rate Minimal, Quality: Normal)                                             
+GPU: NVIDIA GeForce RTX 2060                                                      
+Memory: 16 GB                                            
+Storge: 1 GB                         
 
-We have already upload the modpack on Modrinth![Click to know more](https://modrinth.com/modpack/zecoar-modpack)
+Recommend | Enable Shader (Distant Horizons: 64 Chunks, CPU Usage Rate Lowest, Quality: Normal)                                                
+GPU: NVIDIA GeForce RTX 2070 Super                      
+Memory: 16 GB                                              
+Storge: 1 GB                             
+
+(Configuration may not be accurate, subject to actual situation; I don't know configuration requirements of AMD, because I don't use AMD)
 
 **Version name explain**
 ![Version name explain](https://github.com/ZfIxV/Zecoar-Modpack/blob/main/EN.png)
@@ -73,18 +87,13 @@ Middle letter:
 E-EX                                            
 B-Normal                                              
 
+
 **Notes**
 
 1. <span id="ref1_en">If you add a mod yourself, it may cause the game to crash, so before adding it, make sure it does not conflict with the mods in the modpack.</span>
-2. The shaderpack "ComplementaryReimagined" is belong to EminGT.Any problem about this shaderpack is entirely under the responsibility of the author of Zecoar Modpack.
-
-**More interesting things**
-
-Classic modpack too boring? We have gameplay EX pack, [Click to know more](https://github.com/ZfIxV/Zecoar-Modpack-EX/README.md)
-
-**Like our resourcepack？**
-
-Our resourcepack will be independent of the Zecoar Modpack starting from 1.21, and you can use it in the corresponding version. Please rest assured that you can still see it in the Zecoar Modpack after 1.21.[Click to know more](https://github.com/ZfIxV/Zarba-Respack/tree/main/README.md)
+2. The shaderpack "[Complementary Reimgained](https://modrinth.com/shader/complementary-reimagined)" is belong to EminGT.Any problem about this shaderpack is entirely under the responsibility of the author of Zecoar Modpack.
+3. The shaderpack "Complementary Reimgained" require high graphics card, low configuration users please use the shaderpacks which import by users.
+3. If you are a MC server owner,welcome to use my modpack as a server client, you can also ask me to customize the client(base on Zecoar Modpack).
 
 **Feedback**
 
