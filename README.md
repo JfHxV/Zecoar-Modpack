@@ -95,6 +95,11 @@ B-Normal
 3. The shaderpack "Complementary Reimgained" require high graphics card, low configuration users please use the shaderpacks which import by users.
 3. If you are a MC server owner,welcome to use my modpack as a server client, you can also ask me to customize the client(base on Zecoar Modpack).
 
+
+**More interesting things**
+
+Classic modpack too boring? We have another modpack, [Click to know more](https://modrinth.com/modpack/iwlow)
+
 **Feedback**
 
 If you encounter problems when playing this modpack, please feedback the problem to `Issue`
