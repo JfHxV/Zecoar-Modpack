@@ -40,8 +40,7 @@
 #               
 
 **Language | 语言**
-
-[[English]](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/README.md)   The language you are currently using is `English`            
+     
 [[简体中文]](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/README-SC.md)   您当前使用的语言是`英文`                     
 
 **Switch Resourcepacks**
