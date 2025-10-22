@@ -1,8 +1,0 @@
-{
-  "enabled": true,
-  "scale": 2.0,
-  "legend": true,
-  "legendScale": 2.0,
-  "dynamic": true,
-  "fixedY": 64
-}
