@@ -40,8 +40,7 @@
 
 **语言 | Language**
 
-[[English]](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/README.md)   The language you are currently using is `Simplified Chinese`         
-[[简体中文]](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/README-SC.md)   您当前使用的语言是`简体中文`                
+[[English]](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/README-EN.md)   The language you are currently using is `Simplified Chinese`                
 
 **切换材质包**
 
