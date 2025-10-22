@@ -6,22 +6,26 @@
   
 **Zecoar 整合包**
 
-**《我的世界》原版 Fabric 整合包**                   
 
-| 整合包 | 最新版本 | Java 版本 | 我的世界版本 |
+| Zecoar 整合包 | 最新版本 | Java 版本 | 我的世界版本 |
 | :-: | :-: | :-: | :-: |
-| Zecoar 整合包 | 1.0 | ≥ Java 17 | 1.20 |
-| Zecoar 整合包测试版 | 0.8 | ≥ Java 17 | 1.20 |
-| Zecoar 整合包早期测试版 | 0.5 | ≥Java 21 | 1.21 |
+| 正式版 | 1.0.0 | ≥ Java 21 | 1.21.8 |
+| 测试版 | 0.1.0 | ≥ Java 21 | 1.21.4 |
+| 早鸟版 | 0.0.1 | ≥Java 21 | 1.21.8 |
 
-| 我的世界版本 | Zecoar 整合包早期测试版 | Zecoar 整合包测试版 | Zecoar 整合包 |
+| 我的世界版本 | 早鸟版 | 测试版 | 正式版 |
 | :-: | :-: | :-: | :-: |
 | 1.20 | 不可用 | 可用 | 不可用 |
 | 1.20.x | 不可用 | 不可用 | 不可用 |
-| 1.21 | 可用 | 不可用 | 不可用 |
+| 1.21 | 可用 | 可用 | 可用 |
+| 1.21.3 | 不可用 | 可用 | 不可用 |
+| 1.21.4 | 不可用 | 可用 | 不可用 |
+| 1.21.8 | 可用 | 不可用 | 可用 |
 
 <p>
-    <img src="https://img.shields.io/badge/Mod%20Loader-Fabric-dbd0b4?style=flat" alt="Fabric Mod Loader" />
+  <img src="https://img.shields.io/badge/模组加载器-Fabric-dbd0b4?style=flat" alt="Fabric Mod Loader" />
+  <img src="https://img.shields.io/badge/彩虹像素-支持-fb5a8a?style=flat" alt="Avalible Rainbowpixel">
+  <img src="https://img.shields.io/badge/没有修改-玩法-83d8ff?style=flat" alt="No Modfiy to the Gameplay">
 </p>
 
 </div>
@@ -37,32 +41,40 @@
 **语言 | Language**
 
 [[English]](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/README.md)   The language you are currently using is `Simplified Chinese`         
-[[简体中文]](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/README-SC.md)   您当前使用的语言是`简体中文`         
-[[繁體中文]](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/README-TC.md)   您當前使用的語言是`簡體中文`         
-[[Español]](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/README-ES.md)   El idioma que utiliza actualmente es `Chino simplificado`        
-[[日本語]](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/README-JP.md)   現在使用している言語は`簡体字中国語`です        
-[[한국어]](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/README-KO.md)   현재 사용하고 있는 언어는`중국어 간체`입니다         
+[[简体中文]](https://github.com/ZfIxV/Zecoar-Modpack/tree/main/README-SC.md)   您当前使用的语言是`简体中文`                
 
-**怎么游玩 Zecoar 整合包**
+**切换材质包**
 
-1. 打开您的我的世界启动器（例如：PCL2、HMCL、BakaXL等附有导入整合包功能的启动器）
-2. 打开导入整合包界面（我们不提供找到导入整合包界面的教程，请上网寻求帮助）
-3. 拖入/导入您下载的整合包压缩文件
-4. 等待安装完成
-5. 待安装完毕后即可游玩
+不喜欢彩虹像素？别担心。我们内置了另外三款材质包 —— CozyUI+, OreUI和Unique Dark Refined
 
-**我没有可以导入整合包的启动器怎么办**
+若你想要切换材质包，你必须禁用 `彩虹像素RainbowPixel~☆...`，`彩虹像素☆村民交易UI删减包`，`南烛☆彩虹像素GUI`，`南烛☆果冻血量x曲奇饱食度`和`南烛☆新版彩色物品栏`，然后再启用你想用的材质包。
 
-请放心，我们为您准备了带有`导入整合包`功能的启动器下载链接（我们仅提供下载链接并不能保证此链接与文件的安全性，链接内的任何内容都与 Zecoar 整合包的作者无关，请自行分辨）
 
-[[PCL2]](https://ltcat.lanzoum.com/iEzke1kmuyyh) | [[HMCL]](https://url94.ctfile.com/f/tempdir-BWcFMVxtDWdUYAVlAztXMQUqVm8BNgk-XDRYOlQzVWoCalRjVXoAaQI3VzAJMFEzAzgFMVVlXGtfNw) | [[BakaXL]](https://www.bakaxl.com/)
+**配置要求**
 
-2.自行下载整合包内的模组，我们将会把整合包内的模组打包成压缩包，并与整合包待下载完成后，您只需要将解压缩的`.jar`文件复制进已经准备好的运行游戏（需自行安装 Fabric）文件夹即可（这个文件夹应该在./minecraft name/mods）。
+_*注意: 遥远的地平线默认关闭，启用的光影是互补重新构想。_
 
-导入的船新途径！
+最低 | 关闭光影、遥远的地平线                                                     
+GPU: Intel Iris Xe Graphics                              
+内存: 8 GB                                                         
+存储空间: 500 MB                                  
 
-我们已经将整合包上传到了Modrinth![单击以了解更多](https://modrinth.com/modpack/zecoar-modpack)
+最低 | 开启光影，关闭遥远的地平线                                                
+GPU: NVIDIA GeForce GTX 1660 Super                         
+内存: 8 GB                    
+存储空间: 500 MB                       
 
+推荐 | 关闭光影 (遥远的地平线: 32 区块, CPU使用率最小化, 质量: 普通)                                                 
+GPU: NVIDIA GeForce RTX 1660 Super                      
+内存: 16 GB                      
+存储空间: 1 GB                        
+
+推荐 | 开启光影 (遥远的地平线: 64 区块, 低CPU使用率, 质量: 普通)                                              
+GPU: NVIDIA GeForce RTX 2070 Super                        
+内存: 16 GB                       
+存储空间: 1 GB                          
+
+(配置可能不准，以实际情况为准；我不知道AMD的配置要求，因为我不用AMD)
 
 **版本名称解释**
 ![版本名称解释](https://github.com/ZfIxV/Zecoar-Modpack/blob/main/SC.png)
@@ -76,16 +88,16 @@ B-普通版
 
 **备注**
 
-1. <span id="ref2">如果您自行添加模组，可能会导致游戏崩溃，所以在添加之前，确保它不会与整合包内的模组冲突。</span>
-2. 光影“ComplementaryReimagined”属于EminGT。关于此光影的任何问题都完全由Zecoar Modpack的作者负责。
+1.  <span id="ref2">如果您自行添加模组，可能会导致游戏崩溃，所以在添加之前，确保它不会与整合包内的模组冲突。</span>
+2. 光影“[互补重新构想](https://modrinth.com/shader/complementary-reimagined)”属于EminGT。关于此光影的任何问题都完全由Zecoar Modpack的作者负责。
+3. 光影“互补重新构想”要求高配置显卡，低配置用户请自行导入低配光影。
+4. 如果你是一个服务器拥有者，欢迎使用我的整合包作为服务器客户端，你也可以找我定制服务器客户端(基于Zecoar Modpack)。
+5. 如果你下载了该整合包，可以通过PCL2导入。
+
 
 **更多有趣的东西**
 
-原版整合包太枯燥？我们有玩法扩展包。[点击以了解详情](https://github.com/ZfIxV/Zecoar-Modpack-EX/tree/main/README-SC.md)
-
-**喜欢我们的材质包？**
-
-我们的材质包将在 1.21 开始独立于 Zecoar 整合包，您可以在对应的版本中使用它，请放心，1.21 之后您依旧可以在 Zecoar 整合包中见到它。[点击以了解详情](https://github.com/ZfIxV/Zarba-Respack/README-SC.md)
+原版整合包太枯燥？我们有另一个整合包。[点击以了解详情](https://modrinth.com/modpack/iwlow)
 
 **反馈**
 
