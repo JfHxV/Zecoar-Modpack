@@ -32,6 +32,9 @@
 
 #               
 
+**Language | 语言**
+Your current language is `English`, click this [button](https://github.com/JfHxV/Zecoar-Modpack) switch to `简体中文`.
+
 **Switch Resourcepacks**
 
 Don't like Rainbowpixel? Don't worry. We have in-built another three resoucepacks —— CozyUI+, OreUI and Unique Dark Refined.
