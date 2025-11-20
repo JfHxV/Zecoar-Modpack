@@ -30,6 +30,10 @@
 
 #                   
 
+**语言 | Language**
+
+Your current language is Chinese(Simplified), click this [button](https://github.com/JfHxV/Zecoar-Modpack) switch to English.
+
 **切换材质包**
 
 不喜欢彩虹像素？别担心。我们内置了另外三款材质包 —— CozyUI+, OreUI和Unique Dark Refined
