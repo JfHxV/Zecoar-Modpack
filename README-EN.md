@@ -33,7 +33,8 @@
 #               
 
 **Language | 语言**
-Your current language is `English`, click this [button](https://github.com/JfHxV/Zecoar-Modpack) switch to `简体中文`.
+
+您当前使用的语言是英文，单击[此按钮](https://github.com/JfHxV/Zecoar-Modpack)以切换至简体中文.
 
 **Switch Resourcepacks**
 
