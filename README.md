@@ -1,5 +1,7 @@
 ![title](https://cdn.bbsmc.net/bbsmc/data/cached_images/f54ca155a5aeff04b598b61fff48fac5bb1b20b1.png)
 <div align="center">
+
+**注意: 该整合包已在Github停更，请移步至我们的[Modrinth页面](https://modrinth.com/modpack/zecoar-modpack/)**
   
 # **Zecoar 整合包**
 
@@ -32,7 +34,7 @@
 
 **语言 | Language**
 
-Your current language is Chinese(Simplified), click this [button](https://github.com/JfHxV/Zecoar-Modpack) switch to English.
+Your current language is Chinese(Simplified), click this [button](https://github.com/JfHxV/Zecoar-Modpack/blob/main/README-EN.md) switch to English.
 
 **切换材质包**
 
