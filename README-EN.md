@@ -12,7 +12,7 @@
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | 1.20.6 | Unavailable | Unavailable | Available | 1.0.0 | Java 21 |
 | 1.21 | Available | Available | Available | 1.1.2 | Java 21 |
-| 1.21.1 | Unavailable | Unavailable | Unavailable | - | Java 21 |
+| 1.21.1 | Unavailable | Unavailable | Available | 1.0.0 | Java 21 |
 | 1.21.3 | Unavailable | Available | Available | 1.0.2 | Java 21 |
 | 1.21.4 | Unavailable | Available | Available | 1.0.2 | Java 21 |
 | 1.21.5 | Unavailable | Unavailable | Available | 1.0.1 | Java 24 |
