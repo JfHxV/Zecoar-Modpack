@@ -13,7 +13,6 @@
 | 1.20.6 | Unavailable | Unavailable | Available | 1.0.0 | Java 21 |
 | 1.21 | Available | Available | Available | 1.1.2 | Java 21 |
 | 1.21.1 | Unavailable | Unavailable | Unavailable | - | Java 21 |
-| 1.21.2 | Unavailable | Unavailable | Unavailable | - | Java 21 |
 | 1.21.3 | Unavailable | Available | Available | 1.0.2 | Java 21 |
 | 1.21.4 | Unavailable | Available | Available | 1.0.2 | Java 21 |
 | 1.21.5 | Unavailable | Unavailable | Available | 1.0.1 | Java 24 |
@@ -23,7 +22,7 @@
 | 1.21.9 | Unavailable | Available | Unavailable | 0.1.1 | Java 24 |
 | 1.21.10 | Unavailable | Unavailable | Unavailable | - | Java 24 |
 | 1.21.11 | Unavailable | Available | Unavailable | 0.1.0 | Java 24 |
-| 26.0 | Unavailable | Unavailable | Unavailable | - | - |
+| 26.1 | Unavailable | Unavailable | Unavailable | - | - |
 
 <p>
   <img src="https://img.shields.io/badge/Mod%20Loader-Fabric-dbd0b4?style=flat" alt="Fabric Mod Loader" />
